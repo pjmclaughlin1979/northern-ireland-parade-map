@@ -1,0 +1,4529 @@
+{
+  "source": "https://www.paradescommission.org/Home.aspx?rss=UpcomingParades",
+  "fetchedAt": "2026-10-24T10:56:33+00:00",
+  "feedPublishedAt": "2027-07-11T23:00:00+00:00",
+  "parades": [
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96398",
+      "title": "Larne District LOL No 1",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Larne",
+      "route": "Curran Road (Band only),Victoria Orange Hall,Curran Road,Main Street,Upper Main Street,High Street,Bridge Street,Inver Road,1st Larne Presbyterian Church",
+      "returnRoute": "Inver Road,Bridge Street,High Street,Upper Main Street,Main Street,Curran Road,Victoria Orange Hall,Curran Road (Band only),Portland Road (Band only),Portland Street,Bay Road,Curran Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96398",
+      "coordinates": {
+        "latitude": 54.8508458,
+        "longitude": -5.8183116,
+        "label": "Larne"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96555",
+      "title": "1st Annaghmore Boys' Brigade",
+      "date": "2026-10-25",
+      "startTime": "10:30",
+      "endTime": "10:50",
+      "location": "Annaghmore",
+      "route": "Clarke's Yard,Moss Road,Annaghmore Parish Church",
+      "returnRoute": "Annaghmore Parish Church,Moss Road,Clarke's Yard",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96555",
+      "coordinates": {
+        "latitude": 54.5279599,
+        "longitude": -6.668787,
+        "label": "Annaghmore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96739",
+      "title": "Dunloy Cuchullains GA & CC",
+      "date": "2026-10-25",
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "location": "Dunloy",
+      "route": "Bellaghy Road,Tullaghan Road,Bridge Road,Dunloy GAA grounds",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96739",
+      "coordinates": {
+        "latitude": 55.0111673,
+        "longitude": -6.4111633,
+        "label": "Dunloy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96640",
+      "title": "Portadown District LOL No 1",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Portadown",
+      "route": "Carleton Street,Thomas Street,Thomas Street Methodist Church",
+      "returnRoute": "Thomas Street Methodist Church,Thomas Street,Market Street,Church Street,Carleton Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96640",
+      "coordinates": {
+        "latitude": 54.4242284,
+        "longitude": -6.4412133,
+        "label": "Portadown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96564",
+      "title": "No 9 District LOL",
+      "date": "2026-10-25",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": "Belfast",
+      "route": "Shankill Road,Woodvale Road,Ballygomartin Road",
+      "returnRoute": "Ballygomartin Road,Woodvale Road,Shankill Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96564",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96470",
+      "title": "St Johns GAC",
+      "date": "2026-10-25",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": "Castlewellan",
+      "route": "St Johns GAA Club Drumnaquoile Road,Cauleys Pipe,Carnreagh Road,Guiness Road,Drumnaquoile Road,Ballywillwill Road,Slievenisky Road,Wood Road,Clanvaraghan Road,Slieveanisky Road,Clanvaraghan Road,Ballywillwill Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96470",
+      "coordinates": {
+        "latitude": 54.2574364,
+        "longitude": -5.9435178,
+        "label": "Castlewellan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96549",
+      "title": "Lough Neagh Rescue",
+      "date": "2026-10-25",
+      "startTime": "14:00",
+      "endTime": "16:00",
+      "location": "Cookstown",
+      "route": "Killmascally Road Ardboe,Drumenny Road,Battery Road,Coagh Main Street,Littlebridge Road,Clare Lane,Cloghog Road,Fountain Road,Church Street,Killymoon Road,A29 Roundabout,Cookstown,Moneymore Road Roundabout,A29 towards Moneymore,Conyngham Street, Moneymore,Coagh Main Street,Battery Road,Drumenny Road,Kilmascally Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96549",
+      "coordinates": {
+        "latitude": 54.6436734,
+        "longitude": -6.7416008,
+        "label": "Cookstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96552",
+      "title": "Ballymacarrett District LOL No.6",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "East Belfast",
+      "route": "Templemore Avenue,Madrid Street,Thistle Court,Beechfield Street,Templemore Avenue",
+      "returnRoute": "Templemore Avenue,Major Street,Belvoir Street,Glenallen Street,Keatley Street,Templemore Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96552",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96604",
+      "title": "The membership of No 3 District Loyal Orange Lodge",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:15",
+      "location": "Belfast",
+      "route": "Hopewell Avenue,Crumlin Road,Carlisle Crcus,Clifton Street,Donegall Street,Royal Avenue,North Street,Peter's Hill,Shankill Road,Craven Street",
+      "returnRoute": "Craven Street,Shankill Road,Agnes Street,Crumlin Road,Junction of Crumlin Road/Hopewell Avenue",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96604",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96544",
+      "title": "Sixmilecross District LOL No 7",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Beragh",
+      "route": "Junction of Church Road on Donaghanie Road,Church Road,Clogherny Parish Church",
+      "returnRoute": "Clogherny Parish Church,Church Road,Junction of Church Road on Donaghanie Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96544",
+      "coordinates": {
+        "latitude": 54.5508274,
+        "longitude": -7.1589712,
+        "label": "Beragh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96402",
+      "title": "Lurgan District LOL No 6",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Lurgan",
+      "route": "Brownlow House,Windsor Avenue,High Street,U Turn on High Street,High Street Methodist Church",
+      "returnRoute": "High Street,Windsor Avenue,Brownlow House",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96402",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96680",
+      "title": "Save Emergency Surgery at Daisy Hill Hospital Committee",
+      "date": "2026-10-25",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "location": "Newry",
+      "route": "Marcus Square,Hill Street,Monaghan Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96680",
+      "coordinates": {
+        "latitude": 54.1775283,
+        "longitude": -6.337506,
+        "label": "Newry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96735",
+      "title": "Ruairi Og CLG",
+      "date": "2026-10-25",
+      "startTime": "18:00",
+      "endTime": "21:00",
+      "location": "Cushendall",
+      "route": "Bridge Street,Mill Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96735",
+      "coordinates": {
+        "latitude": 55.080819,
+        "longitude": -6.0640644,
+        "label": "Cushendall"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96648",
+      "title": "4TH PORTADOWN ST MARKS SCOUT GROUP",
+      "date": "2026-10-25",
+      "startTime": "09:45",
+      "endTime": "10:00",
+      "location": "Portadown",
+      "route": "Carlton Street,Left into Thomas Street,Left into Market Street,Church Street,Saint Marks Church",
+      "returnRoute": "West Street,Market Street,High Street,U Turn at Bottom of Town (internal loop),High Street,Market Street,Church Street,Carlton Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96648",
+      "coordinates": {
+        "latitude": 54.4242284,
+        "longitude": -6.4412133,
+        "label": "Portadown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96644",
+      "title": "Coa Community & Activities",
+      "date": "2026-10-25",
+      "startTime": "13:30",
+      "endTime": "14:30",
+      "location": "Coa",
+      "route": "Chapel Road,Coa Road,Tullyrain Road,Kilskeery Road,Main Street Ballinamallard,Station Brae Ballinamallard,Drumsloe Road,Chapel Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96644",
+      "coordinates": {
+        "latitude": 54.402479,
+        "longitude": -7.5627079,
+        "label": "Coa"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96524",
+      "title": "Dr Henry Memorial JLOL139",
+      "date": "2026-10-25",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Comber",
+      "route": "Railway Street,Ballygowan Road,High Street,Windmill Hill",
+      "returnRoute": "Windmill Hill,High Street,The Square,Castle Street,Mill Street,Railway Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96524",
+      "coordinates": {
+        "latitude": 54.5498342,
+        "longitude": -5.7454313,
+        "label": "Comber"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96545",
+      "title": "Lorry run in aid of the Kevin Bell Repatriation Trust",
+      "date": "2026-10-25",
+      "startTime": "11:00",
+      "endTime": "11:00",
+      "location": "Greencastle",
+      "route": "An Cregan Centre County Tyrone,A505 to Omagh,A32 Clanabogan Road,Drumlish Road to Lack,Edenamohill Road to Ederney,Letterboy Road to Kesh,Pettigo Road and turning on to the A47 Boa Island Road,Belleek and stopping at the Belleek Pottery around 13:30pm,Belleek Pottery approx 15:00pm following the Lough Shore Road to Enniskillen,Irvinestown Road to Trory Roundabout then turning on to the Enniskillen Road,Irvinestown",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96545",
+      "coordinates": {
+        "latitude": 54.6896166,
+        "longitude": -7.0778026,
+        "label": "Greencastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96567",
+      "title": "Classic Car & Tractor Run",
+      "date": "2026-10-25",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "location": "Florencecourt",
+      "route": "Belle Isle Castle to Entrance of Estate,Derryharney,Droles Road,Bunnahesco Road,Gola Road,Drumgoon Road,Main Street,Brookeborough Road,A4,Gardiners Road,Drummeer Road,Aughaward Road,Lisbellaw Road,Farnand Road,Gola Road,Inish,Derryharney,Belle Isle Estate,Belle Isle Castle",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96567",
+      "coordinates": {
+        "latitude": 54.2634439,
+        "longitude": -7.7301721,
+        "label": "Florencecourt"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96591",
+      "title": "RNLI DONAGHADEE",
+      "date": "2026-10-25",
+      "startTime": "10:30",
+      "endTime": "10:30",
+      "location": "Ards Peninsula",
+      "route": "Sir Samuel Kelly Lifeboat - Marina Car Park Donaghadee,Parade Donaghadee,A2 - A48,Zion Place Newtownards,George Street Newtownards,A20 Portaferry Road,Demense View,A2,High Street Donaghadee,Bridge Street Donaghadee,Parade Donaghadee,Sir Samuel Kelly Marina Car Park Donaghadee",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96591",
+      "coordinates": {
+        "latitude": 54.5019733,
+        "longitude": -5.6485503,
+        "label": "Ards and North Down District"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96619",
+      "title": "Lady of the Lake Festival",
+      "date": "2026-10-27",
+      "startTime": "15:30",
+      "endTime": "15:30",
+      "location": "Co Fermanagh",
+      "route": "Mill Street,Castle Street,Necarne Estate,Whitehill Road,Ballycassidy,Enniskillen Road,Trory,Hospital Road,Cornagrade Road,Queen Elizabeth Road,Buttermarket",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96619",
+      "coordinates": {
+        "latitude": 54.3618747,
+        "longitude": -7.6567106,
+        "label": "County Fermanagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96521",
+      "title": "Primate Dixon Primary School",
+      "date": "2026-10-28",
+      "startTime": "11:00",
+      "endTime": "12:30",
+      "location": "Coalisland",
+      "route": "School Lane,Barrack Street,Main Street,Lineside,Barrack Street,Brackaville Road,School Lane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96521",
+      "coordinates": {
+        "latitude": 54.5394657,
+        "longitude": -6.7004879,
+        "label": "Coalisland"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96709",
+      "title": "Lisnarick Community Association",
+      "date": "2026-10-29",
+      "startTime": "19:00",
+      "endTime": "21:30",
+      "location": "Lisnarick",
+      "route": "Castle Archdale Service Station,Castle Archdale Forest,Castle Archdale Service Station",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96709",
+      "coordinates": {
+        "latitude": 54.4769243,
+        "longitude": -7.6987719,
+        "label": "Lisnarrick"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96563",
+      "title": "Feile An Phobail",
+      "date": "2026-10-29",
+      "startTime": "19:00",
+      "endTime": "19:00",
+      "location": "Belfast",
+      "route": "Falls Road,Falls Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96563",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96431",
+      "title": "LCDI - Limavady Community Development Initative",
+      "date": "2026-10-29",
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "location": "Limavady",
+      "route": "Benevenagh Drive,Irish Green Street,Roemill Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96431",
+      "coordinates": {
+        "latitude": 55.0504857,
+        "longitude": -6.9505134,
+        "label": "Limavady"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96311",
+      "title": "Enniskillen BID Ltd",
+      "date": "2026-10-29",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "location": "Enniskillen",
+      "route": "East Bridge Street,Townhall Street,High Street,Church Street,Halls Lane,Queen Elizabeth Road,Belmore Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96311",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96561",
+      "title": "Portballintrae Residents' Association",
+      "date": "2026-10-30",
+      "startTime": "20:00",
+      "endTime": "20:45",
+      "location": "Portballintrae",
+      "route": "Village Hall carpark,Beach Road,Bayhead Road outside Bayview Hotel",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96561",
+      "coordinates": {
+        "latitude": 55.2150678,
+        "longitude": -6.5443609,
+        "label": "Portballintrae"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96440",
+      "title": "Tinylife",
+      "date": "2026-10-30",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Derry",
+      "route": "Saint Columb's Park House driveway,Saint Columb's Park Pathway,Saint Columb's Park Running Track,Saint Columb's Park Pathway,Saint Columb's Park House Driveway",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96440",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96725",
+      "title": "St Pauls GFC",
+      "date": "2026-10-31",
+      "startTime": "18:00",
+      "endTime": "18:30",
+      "location": "Lurgan",
+      "route": "Downshire Avenue,Glenholme Park,Ailsbury Park,Downshire Avenue",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96725",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96639",
+      "title": "Derry City and Strabane District Council",
+      "date": "2026-10-31",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Derry",
+      "route": "Queens Quay Carpark,Queens Quay,Boating Club Lane,Strand Road,Foyle Embankment,Harbour Square Roundabout,Foyle Embankment to junction with Water Street,Foyle Embankment,Harbour Square Roundabout,Queens Quay,Queens Quay Carpark",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96639",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96505",
+      "title": "Causeway Coast & Glens Borough Council",
+      "date": "2026-10-31",
+      "startTime": "18:30",
+      "endTime": "19:15",
+      "location": "Ballycastle",
+      "route": "Dalriada Hospital Car Park,Leyland Road,Castle Street,The Diamond,Ann Street,Quay Road,North Street,Seafront",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96505",
+      "coordinates": {
+        "latitude": 55.2006882,
+        "longitude": -6.250282,
+        "label": "Ballycastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96710",
+      "title": "West Belfast Athletic & Cultural Society",
+      "date": "2026-10-31",
+      "startTime": "10:00",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Shankill Leisure Centre,Northumberland Street,Shankill Road,Tennant Street,(Turn),Co-op",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96710",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96602",
+      "title": "Arts Ekta",
+      "date": "2026-10-31",
+      "startTime": "19:00",
+      "endTime": "19:30",
+      "location": "Belfast",
+      "route": "Donegal Street,Talbot Street,Hill Street,Waring Street,Donegal Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96602",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96615",
+      "title": "Burnside Campsie Club",
+      "date": "2026-10-31",
+      "startTime": "14:30",
+      "endTime": "16:15",
+      "location": "Antrim",
+      "route": "Railway Street Car Park,Railway Street,Castle Way (pause at RUC memorial),Church Street,Fountain Street (turn at RAB),Fountain Street,Church Street,High Street,Market Square,Market Square Cenotaph -  Wreath laying and Act of Remembrance,Market Square,High Street,Railway Street,Railway Street Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96615",
+      "coordinates": {
+        "latitude": 54.715139,
+        "longitude": -6.2192038,
+        "label": "Antrim"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96488",
+      "title": "St Marys Mullymesker PTFA Tractor Run",
+      "date": "2026-11-01",
+      "startTime": "15:00",
+      "endTime": "19:00",
+      "location": "Arney",
+      "route": "Arney,Bellandlecy,Sligo Road,Swanlinbar Road,Arney Road,Arney",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96488",
+      "coordinates": {
+        "latitude": 54.2915763,
+        "longitude": -7.6785269,
+        "label": "Arney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=93662",
+      "title": "Ballinderry District LOL NO3",
+      "date": "2026-11-01",
+      "startTime": "10:30",
+      "endTime": "10:30",
+      "location": "Upper Ballinderry",
+      "route": "North Street Upper Ballinderry,Lower Ballinderry Road,Ballinderry Parish Church",
+      "returnRoute": "Lower Ballinderry Road,North Street Upper Ballinderry,Ballinderry Parish Church Car Park",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=93662",
+      "coordinates": {
+        "latitude": 54.5401636,
+        "longitude": -6.2038289,
+        "label": "Ballinderry Upper"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96245",
+      "title": "church leaders",
+      "date": "2026-11-01",
+      "startTime": "20:30",
+      "endTime": "20:30",
+      "location": "Derry",
+      "route": "Long Tower Street, Bishop Street, Magazine Street, First Derry Presbyterian Church,Magazine Street, Butcher Street, Bishop Street,St Columbs Cathedral,Ferryquay Street, Carlisle Road Salvation Army",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96245",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96458",
+      "title": "Groomsport Remembrance Committee",
+      "date": "2026-11-01",
+      "startTime": "14:25",
+      "endTime": "14:25",
+      "location": "Groomsport",
+      "route": "Donaghadee Road Groomsport,  Main Street Groomsport",
+      "returnRoute": "Main Street Groomsport",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96458",
+      "coordinates": {
+        "latitude": 54.6748519,
+        "longitude": -5.6180066,
+        "label": "Groomsport"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96514",
+      "title": "LOL No 1253 Stoneyford Temperance",
+      "date": "2026-11-01",
+      "startTime": "11:20",
+      "endTime": "11:30",
+      "location": "Stoneyford",
+      "route": "Stoneyford Orange Hall,Stoneyford Road,St John Paris Church Stoneyford",
+      "returnRoute": "St John Paris Church Stoneyford,Stoneyford Road,Stoneyford Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96514",
+      "coordinates": {
+        "latitude": 54.5672958,
+        "longitude": -6.1214734,
+        "label": "Stoneyford"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96594",
+      "title": "1st Newmills Boys' Brigade",
+      "date": "2026-11-01",
+      "startTime": "11:00",
+      "endTime": "11:00",
+      "location": "Newmills",
+      "route": "Newmills Presbyterian Church Carpark,Through the village,Cenotaph,Farlough Road,Main Entrance to Tullanisken Church",
+      "returnRoute": "Tullanisken Parish Church Main Entrance on the Farlough Road,Through Village,Turn at the Stewartstown Junction,Through Village,(Depending on safety/space either turn into the entrance of Drumreagh Crescent or Presbyterian carpark)",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96594",
+      "coordinates": {
+        "latitude": 54.5516861,
+        "longitude": -6.740477,
+        "label": "Newmills"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96570",
+      "title": "Walkie Talkie Girlies Society",
+      "date": "2026-11-04",
+      "startTime": "19:00",
+      "endTime": "19:00",
+      "location": "Belfast",
+      "route": "University Road,Bradbury Place,Dublin Road,Bedford Street,Donegall Square West,Donegall Square North",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96570",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96715",
+      "title": "Lisburn District L.O.L. No. 6",
+      "date": "2026-11-07",
+      "startTime": "10:40",
+      "endTime": "11:00",
+      "location": "Lisburn",
+      "route": "Lisburn Orange Hall - Wallace Avenue,Belfast Road,Seymour Streety,Castle Street,Lisburn Cenotaph (Short Remembrance Service & Wreath Laying)",
+      "returnRoute": "Lisburn Cenotaph,Castle Street,Market Square (Short stop to lay wreath at UDR Memorial),Market Street,Smithfield Street,Market Place (Short stop to lay wreath at Commemorative Plaque),Bow Street,Antrim Street,Bachelors Walk,Lisburn Orange Hall - Wallace Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96715",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96525",
+      "title": "Comber Old Standard LOL 567",
+      "date": "2026-11-07",
+      "startTime": "13:00",
+      "endTime": "14:00",
+      "location": "Comber",
+      "route": "Railway Street Comber,Ballygoan Road,High Street,The Square,Killinchy Street,Castle Street,Mill Street,Railway street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96525",
+      "coordinates": {
+        "latitude": 54.5498342,
+        "longitude": -5.7454313,
+        "label": "Comber"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96467",
+      "title": "Clyde Valley Flute Band",
+      "date": "2026-11-07",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "location": "Larne",
+      "route": "Greenland Drive,Upper Waterloo Road,Recreation Road,Wellington Green,Recreation Road,Slemish Drive,Ferris Avenue,Greenland Drive",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96467",
+      "coordinates": {
+        "latitude": 54.8508458,
+        "longitude": -5.8183116,
+        "label": "Larne"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96727",
+      "title": "Carntall Mossley LOL134",
+      "date": "2026-11-07",
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "location": "Glengormley",
+      "route": "Glenvarna Drive,Ballyclare Road,Queens Park,Coolehill Park,Carnmoney Road,Antrim Road,Ballyclare Road,Stop at War Memorial,Ballyclare Road,Glenvarna Drive",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96727",
+      "coordinates": {
+        "latitude": 54.6718077,
+        "longitude": -5.9594082,
+        "label": "Glengormley"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96597",
+      "title": "Portaferry Parish",
+      "date": "2026-11-07",
+      "startTime": "10:00",
+      "endTime": "13:30",
+      "location": "Portaferry",
+      "route": "Cook Street Portaferry,Ballyfounder Road Portaferry,Ballyquinton Road Portaferry,Barrhall Road Portaferry,Shore Road Portaferry,Cook Street Portaferry",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96597",
+      "coordinates": {
+        "latitude": 54.3806965,
+        "longitude": -5.5485491,
+        "label": "Portaferry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96636",
+      "title": "Co. Antrim Independent Grand Lodge Cultural Committee",
+      "date": "2026-11-07",
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "location": "Portglenone",
+      "route": "Blackstone Road Portglenone",
+      "returnRoute": "Blackstone Road Portglenone",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96636",
+      "coordinates": {
+        "latitude": 54.8733857,
+        "longitude": -6.4751493,
+        "label": "Portglenone"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96607",
+      "title": "LOL No 1203 Primrose Temperance",
+      "date": "2026-11-07",
+      "startTime": "10:30",
+      "endTime": "12:15",
+      "location": "Newtownabbey",
+      "route": "Private Laneway,Boghill Road,Memorial Stone",
+      "returnRoute": "Memorial Stone,Boghill Road,Private Lane to Private Premises",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96607",
+      "coordinates": {
+        "latitude": 54.6778816,
+        "longitude": -5.9249199,
+        "label": "Newtownabbey"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96646",
+      "title": "Willowfield War Memorial Committee",
+      "date": "2026-11-07",
+      "startTime": "10:40",
+      "endTime": "11:00",
+      "location": "East Belfast",
+      "route": "My Lady’s Road,Willowfield Street,Castlereagh Road,Beersbridge Road,Woodstock Road,Willowfield War Memorial",
+      "returnRoute": "Woodstock Road,My Lady’s Road,Cherryville Street,Pottinger Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96646",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96744",
+      "title": "Lower Ormeau Concerned Community",
+      "date": "2026-11-07",
+      "startTime": "07:30",
+      "endTime": "10:30",
+      "location": "Belfast",
+      "route": "",
+      "returnRoute": "",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96744",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96672",
+      "title": "Whiterock Flute Band",
+      "date": "2026-11-07",
+      "startTime": "13:00",
+      "endTime": "13:45",
+      "location": "Belfast",
+      "route": "Tennent Street,Shankill Road,Short Break at Shankill Memorial Garden,Shankill Road,Brookmount Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96672",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96681",
+      "title": "Cormeen Rising Sons of William Flute Band",
+      "date": "2026-11-07",
+      "startTime": "11:30",
+      "endTime": "12:00",
+      "location": "Killylea",
+      "route": "Fellowshall Road,Main Street",
+      "returnRoute": "Killlylea Main Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96681",
+      "coordinates": {
+        "latitude": 54.3479274,
+        "longitude": -6.7758394,
+        "label": "Killylea"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96276",
+      "title": "Dunaghy Accordian Band",
+      "date": "2026-11-07",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Dunaghy",
+      "route": "Landhead Road,Kilraughts Road,Dunaghy Orange Hall",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96276",
+      "coordinates": {
+        "latitude": 55.0721513,
+        "longitude": -6.4716715,
+        "label": "Dunaghy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96509",
+      "title": "ABOD Belfast Amalgamated Committee",
+      "date": "2026-11-07",
+      "startTime": "10:25",
+      "endTime": "12:30",
+      "location": "Belfast",
+      "route": "Donegall Pass,Great Victoria Street,Wellington Place,Donegall Square North,Belfast City Hall (30 minute service),Donegall Place,Royal Avenue,Donegall Street,Clifton Street,Denmark Street,North Boundary Street,Shankill Road (Short stop at Garden of Remembrance),Tennent Street",
+      "returnRoute": "",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96509",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96647",
+      "title": "belfast walkerclub",
+      "date": "2026-11-07",
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "location": "Belfast",
+      "route": "Ballynafeigh Orange Hall,Ormeau Road,Ormeau Bridge,Ormeau Road,Donegal Pass",
+      "returnRoute": "",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96647",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96661",
+      "title": "Rising Sons of the Valley Flute Band",
+      "date": "2026-11-07",
+      "startTime": "19:15",
+      "endTime": "21:00",
+      "location": "Kilkeel",
+      "route": "Reivers House Newcastle Street & Meeting House Lane,Newcastle Street,Bridge Street,Greencastle Street,Knockchree Avenue,Turn at Finlieve Park,Return along Knockcree Avenue,Pause at Memorial on Knockchree Avenue,Greencastle Street,Bridge Street,Lower Square Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96661",
+      "coordinates": {
+        "latitude": 54.0626664,
+        "longitude": -6.0059949,
+        "label": "Kilkeel"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96679",
+      "title": "Royal British Legion Fivemiletown",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "location": "Fivemiletown",
+      "route": "Royal British Legion Hall, Ballagh Road,Main Street,Clabby Road,Edfield Way,Murley Road,St John's Church",
+      "returnRoute": "St John's Church,Murley Road,Edfield Way,Ballagh Road,Royal British Legion Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96679",
+      "coordinates": {
+        "latitude": 54.3784847,
+        "longitude": -7.3153578,
+        "label": "Fivemiletown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96659",
+      "title": "Lisnaskea District LOL No 4",
+      "date": "2026-11-08",
+      "startTime": "11:20",
+      "endTime": "11:35",
+      "location": "Lisnaskea",
+      "route": "Archdale Centre,Main Street,Church Lane",
+      "returnRoute": "Church Lane,Main Street,Turn at mini round about,Main Street,Archdale Centre",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96659",
+      "coordinates": {
+        "latitude": 54.2519389,
+        "longitude": -7.4424577,
+        "label": "Lisnaskea"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96202",
+      "title": "Randalstown Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10.45",
+      "endTime": "11.30",
+      "location": "Randalstown",
+      "route": "New Street,Upper Main Street,Memorial Garden where we will have a wreath laying,Church Road",
+      "returnRoute": "Drummaull Parish Church Church Road,Church Road,Upper Main Street,New Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96202",
+      "coordinates": {
+        "latitude": 54.7498918,
+        "longitude": -6.3197638,
+        "label": "Randalstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96728",
+      "title": "LOL No 552 Portavogie True Blues",
+      "date": "2026-11-08",
+      "startTime": "09:00",
+      "endTime": "09:20",
+      "location": "Portavogie",
+      "route": "Orange Hall - Main Road,New Harbour Road,War Memorial",
+      "returnRoute": "War Memorial,Harbour Road,Main Road,Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96728",
+      "coordinates": {
+        "latitude": 54.4612678,
+        "longitude": -5.4433576,
+        "label": "Portavogie"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96678",
+      "title": "1st Templepatrick Scout Group",
+      "date": "2026-11-08",
+      "startTime": "11:10",
+      "endTime": "12:40",
+      "location": "Templepatrick",
+      "route": "Old Coagh Road,The Village,Antrim Road Templepatrick",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96678",
+      "coordinates": {
+        "latitude": 54.7007241,
+        "longitude": -6.103504,
+        "label": "Templepatrick"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96532",
+      "title": "Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "location": "Newtownstewart",
+      "route": "Dublin Street,Methodist Lane,Moyle Road,Wreath laying at the War Memorial,Moyle Road,St Eugene's Street,Main Street",
+      "returnRoute": "Main Street,Dublin Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96532",
+      "coordinates": {
+        "latitude": 54.7173126,
+        "longitude": -7.3790232,
+        "label": "Newtownstewart"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96718",
+      "title": "Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "location": "Cullybackey",
+      "route": "Ballymena Road (Main Street),Main Street,Dreen Road",
+      "returnRoute": "Shellinghill Road,Main Street,Ballymena Road (Main Street)",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96718",
+      "coordinates": {
+        "latitude": 54.8889956,
+        "longitude": -6.356308,
+        "label": "Cullybackey"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96704",
+      "title": "Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "14:50",
+      "endTime": "15:50",
+      "location": "Banbridge",
+      "route": "Kenlis Court,Kenlis Street,Newry Street,Cenotaph on both sides of Newry Street 1500-1530 approx,Newry Street,Scarva Road",
+      "returnRoute": "Scarva Street Presbyterian Church,Jingles Cut,Newry Street,Kenlis Street,Kenlis Court",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96704",
+      "coordinates": {
+        "latitude": 54.3514168,
+        "longitude": -6.2714623,
+        "label": "Banbridge"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96618",
+      "title": "Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "14:50",
+      "endTime": "15:30",
+      "location": "Markethill",
+      "route": "Keady Street,Main Street,Fairgreen Road (Small Memorial Hall)",
+      "returnRoute": "Fairgreen Road (Presbyterian Church),Main Street,Keady Road,Fairgreen Road (Presbyterian Church)",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96618",
+      "coordinates": {
+        "latitude": 54.2968976,
+        "longitude": -6.5209906,
+        "label": "Markethill"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96632",
+      "title": "Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:00",
+      "location": "Caledon",
+      "route": "Killylea Road Caledon,Main Street Caledon,Church Hill Caledon",
+      "returnRoute": "Church Hill Caledon,Main Street Caledon,Killylea Rd Caledon",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96632",
+      "coordinates": {
+        "latitude": 54.3509691,
+        "longitude": -6.8377547,
+        "label": "Caledon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96487",
+      "title": "Royal British Legion Ballyclare",
+      "date": "2026-11-08",
+      "startTime": "10:20",
+      "endTime": "10:45",
+      "location": "Ballyclare",
+      "route": "Harrier Way Car Park,The Square (clockwise),Main Street,Ballynure Road,War Memorial Park",
+      "returnRoute": "War Memorial Park,Ballynure Road,Main Street,The Square (clockwise),Harrier Way Car Park",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96487",
+      "coordinates": {
+        "latitude": 54.7525296,
+        "longitude": -6.0010911,
+        "label": "Ballyclare"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96471",
+      "title": "Royal British Legion Ballynahinch",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "location": "Ballynahinch",
+      "route": "Windmill Street,Harmony Way,War Memorial (Service),Main Street,High Street,Windmill Street,Windmill Street Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96471",
+      "coordinates": {
+        "latitude": 54.4026038,
+        "longitude": -5.8960151,
+        "label": "Ballynahinch"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96706",
+      "title": "Royal British Legion Bessbrook",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:20",
+      "location": "Bessbrook",
+      "route": "Royal British Legion Bessbrook - Boiler Hill,Fountain Street,(Service at Cenotaph Charlemont Square),Church Road,Presbyterian Church",
+      "returnRoute": "Presbyterian Church,Church Road,Fountain Street,Royal British Legion - Boiler Hill",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96706",
+      "coordinates": {
+        "latitude": 54.1941791,
+        "longitude": -6.3965548,
+        "label": "Bessbrook"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96663",
+      "title": "Royal British Legion Broughshane",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "11:15",
+      "location": "Broughshane",
+      "route": "Knockan Road,Main Street - A42,Service at War Memorial,Main Street to Church Entry,Main Street,First Broughshane Presbyterian Church",
+      "returnRoute": "First Broughshane Presbyterian Church,Main Street,Knockan Road,Community Centre",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96663",
+      "coordinates": {
+        "latitude": 54.8936924,
+        "longitude": -6.2037804,
+        "label": "Broughshane"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96512",
+      "title": "Royal British Legion Dervock",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "location": "Dervock",
+      "route": "Carncullagh Road,Castlecatt Road,Toberdoney Road,Carncullagh Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96512",
+      "coordinates": {
+        "latitude": 55.1233432,
+        "longitude": -6.4684721,
+        "label": "Dervock"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96609",
+      "title": "Royal British Legion Donaghcloney",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "location": "Donaghcloney",
+      "route": "Drumlin Road Donaghacloney,Main Street Donaghacloney,Monree Road (Turnpoint)",
+      "returnRoute": "Main Street Donaghcloney,Drumlin Road Donaghcloney,Methodist Church Donaghcloney",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96609",
+      "coordinates": {
+        "latitude": 54.420105,
+        "longitude": -6.2603363,
+        "label": "Donaghcloney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96675",
+      "title": "Royal British Legion Downpatrick",
+      "date": "2026-11-08",
+      "startTime": "14:40",
+      "endTime": "15:00",
+      "location": "Downpatrick",
+      "route": "The Mall English Street,Church Street,New Bridge Street,The Cenotaph Strangford Road",
+      "returnRoute": "The Cenotaph Strangford Road,New Bridge Street,Church Street,English Street, The Mall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96675",
+      "coordinates": {
+        "latitude": 54.3279335,
+        "longitude": -5.71649,
+        "label": "Downpatrick"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96685",
+      "title": "Royal British Legion Dunboe & Castlerock",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "17:00",
+      "location": "Castlerock",
+      "route": "Freehall Road,Left at roundabout on to Sea Road,Stopping at Memorial on far side of railway crossing,Sea Road,Main Street,Christ Church Castlerock",
+      "returnRoute": "Main Street,Sea Road,At roundabout turn right on to Freehall Road,Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96685",
+      "coordinates": {
+        "latitude": 55.16482,
+        "longitude": -6.7884142,
+        "label": "Castlerock"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96579",
+      "title": "Royal British Legion Enniskillen",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "13:30",
+      "location": "Enniskillen",
+      "route": "Derrychara Road (Turn left at traffic lights),Belfast Road,Belmore Street to Cenotaph,East Bridge Street,Townhall Street,Church Street,Cathedral",
+      "returnRoute": "Cathedral,Darling Street,Castle Street,Wellington Road,(Short stop at South African War Memorial),Legion via side of KFC",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96579",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96536",
+      "title": "Royal British Legion Irvinestown",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": "Pettigo",
+      "route": "Layby at Tullyhommon -  Pettigo Road Tulluyhommon,High Street,Tullyhomman Methodist Church",
+      "returnRoute": "Methodist Church - High Street Tullyhummon,Pettigo Road,Layby on Pettigo Road Tullyhommon",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96536",
+      "coordinates": {
+        "latitude": 54.5490678,
+        "longitude": -7.830455,
+        "label": "Pettigo Road"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96537",
+      "title": "Royal British Legion Irvinestown",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "location": "Ballinamallard",
+      "route": "Flag pole - Coa Road,Main Street Ballinamallard,Ballinamallard Church of Ireland Main Street Ballinamallard,Methodist Church Main Street Ballinamallard (some members go to Methodist Church)",
+      "returnRoute": "Ballinamallard Methodist Church, - Main Street Ballinamallard,Ballinamallard Church of Ireland Main Street Ballinamallard,Coa Road ( Flag pole) Ballinamallard",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96537",
+      "coordinates": {
+        "latitude": 54.4228702,
+        "longitude": -7.5950403,
+        "label": "Ballinamallard"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96538",
+      "title": "Royal British Legion Irvinestown",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "location": "Irvinestown",
+      "route": "Lisnarick Road,Church Street -  Stopping at Irvinestown RC Chapel to lay a wreath,Irvinestown Main Street,Turning just after the pedestrian crossing in middle of Main Street,Irvinestown Main Street,Church Street stopping at Derryvullen North COI,Please can no parking cones be placed from Derryvullen North Parish COI to Health Centre,as the salute and wreath leaying service will take place there at cenotaph.",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96538",
+      "coordinates": {
+        "latitude": 54.4720106,
+        "longitude": -7.6334809,
+        "label": "Irvinestown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96611",
+      "title": "Royal British Legion Limavady",
+      "date": "2026-11-08",
+      "startTime": "10:15",
+      "endTime": "11:30",
+      "location": "Limavady",
+      "route": "United Services Club Car Park,Mill Road,Catherine Stret,Linenhall Street,Main Street,Market Street,Catherine Street,War Memorial",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96611",
+      "coordinates": {
+        "latitude": 55.0504857,
+        "longitude": -6.9505134,
+        "label": "Limavady"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96645",
+      "title": "Royal British Legion Loughbrickland",
+      "date": "2026-11-08",
+      "startTime": "11:45",
+      "endTime": "12:00",
+      "location": "Loughbrickland",
+      "route": "Scarva Street,Loughbrickland/Junction of Old Newry Road,Scarva Street,Aghaderg Parish Church",
+      "returnRoute": "Loughbrickland Parish Church,Scarva Street,Loughbrickland/Junction of Old Newry Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96645",
+      "coordinates": {
+        "latitude": 54.3161717,
+        "longitude": -6.304167,
+        "label": "Loughbrickland"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96671",
+      "title": "Royal British Legion Magherafelt",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "location": "Magherafelt",
+      "route": "Union Road Carpark,Rainey Street,Diamond,Broad Street,Union Road Prebyterian,Union Road Prebyterian Church Magherafelt",
+      "returnRoute": "Union Road Prebyterian Church Magherafelt,Union Road,Garden Street,Rainey Street,Diamond,Queen Street,Union Road Carpark",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96671",
+      "coordinates": {
+        "latitude": 54.7544757,
+        "longitude": -6.6078073,
+        "label": "Magherafelt"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96711",
+      "title": "Royal British Legion Magherafelt",
+      "date": "2026-11-08",
+      "startTime": "17:45",
+      "endTime": "18:15",
+      "location": "Tobermore",
+      "route": "Service at War Memorial,Tobermore Baptist Church",
+      "returnRoute": "Tobermore Baptist Church,Main Street,Wood Road,Lower Main Street,Junction Desertmartin Road,Lower Main Street,McKinney Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96711",
+      "coordinates": {
+        "latitude": 54.8119443,
+        "longitude": -6.7076173,
+        "label": "Tobermore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96720",
+      "title": "Royal British Legion Omagh",
+      "date": "2026-11-08",
+      "startTime": "08:45",
+      "endTime": "09:15",
+      "location": "Omagh",
+      "route": "Royal British Legion,Campsie Road,Dublin Road,Academy",
+      "returnRoute": "Academy,Dublin Road,Market Street,Bridge Street,Cenotaph,A5,Campsie,Royal British Legion",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96720",
+      "coordinates": {
+        "latitude": 54.5992486,
+        "longitude": -7.3029907,
+        "label": "Omagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96635",
+      "title": "Royal British Legion Portstewart",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Portstewart",
+      "route": "Lever Road,Church Street,The Diamond,The Promenade,War Memorial,The Diamond,Church Street",
+      "returnRoute": "The Promenade,The Diamond,Church Street,Lever Road,British Legion",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96635",
+      "coordinates": {
+        "latitude": 55.1829096,
+        "longitude": -6.7187008,
+        "label": "Portstewart"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96511",
+      "title": "Royal British Legion Sydenham",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "10:35",
+      "location": "Belfast",
+      "route": "Sanbrook Gardens,Connsbrook Avenue,Strand Presbyterian Church",
+      "returnRoute": "Connsbrook Avenue,Strandburn Drive,Larkfield Road,Sydenham Royal British Legion",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96511",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96576",
+      "title": "Richhill Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:50",
+      "endTime": "11:00",
+      "location": "Richhill",
+      "route": "Richhill Square,Main Street,Around War Memorial Anti Clockwise,Maynooth Road and turn into War Memorial Garden,Parade will halt at War Memorial for 20 minutes,Back up Main Street,Through Square,Tandragee Street to Methodist Church",
+      "returnRoute": "Tandragee Street,Right into New Line,Main Street around war memorial,Back up Main Street to the Square",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96576",
+      "coordinates": {
+        "latitude": 54.3710151,
+        "longitude": -6.5487914,
+        "label": "Richhill"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=95859",
+      "title": "ABOD Mitchelburne Club Dunseverick Branch",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Bushmills",
+      "route": "Woodvale Park [Beside Centra],The Diamond [War Memorial],Main Street,Bushmills Presbyterian Church",
+      "returnRoute": "Bushmills Presbyterian Church,Main Street,The Diamond,Woodvale Park [Beside Centra]",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=95859",
+      "coordinates": {
+        "latitude": 55.2059909,
+        "longitude": -6.5234165,
+        "label": "Bushmills"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96476",
+      "title": "mid and east antrim borough council",
+      "date": "2026-11-08",
+      "startTime": "10:15",
+      "endTime": "10:45",
+      "location": "Larne",
+      "route": "Meetinghouse Street,Pound Street,High Street,Inver Road,Church Road",
+      "returnRoute": "Inver Road,Church Road,High Street,Pound Street to Gardenmore Church,Pound Street,Meetinghouse Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96476",
+      "coordinates": {
+        "latitude": 54.8508458,
+        "longitude": -5.8183116,
+        "label": "Larne"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96464",
+      "title": "mid and east antrim borough council",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "location": "Glynn",
+      "route": "Glenvale Park Glynn,Main Street (pause at war memorial for service and laying of wreaths),Church Lane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96464",
+      "coordinates": {
+        "latitude": 54.8267821,
+        "longitude": -5.8109984,
+        "label": "Glynn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96689",
+      "title": "The Royal British Legion Ballycastle Branch",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Ballycastle",
+      "route": "Quay Road,War Memorial Quay Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96689",
+      "coordinates": {
+        "latitude": 55.2006882,
+        "longitude": -6.250282,
+        "label": "Ballycastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96696",
+      "title": "lisburn fusiliers FB",
+      "date": "2026-11-08",
+      "startTime": "12:00",
+      "endTime": "1230",
+      "location": "Lisburn",
+      "route": "Halftown Road (Old prison gates),Halftown Road,Coronation Gardens",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96696",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96628",
+      "title": "Royal British Legion, Upperlands",
+      "date": "2026-11-08",
+      "startTime": "10:20",
+      "endTime": "11:00",
+      "location": "Kilrea",
+      "route": "Church Street Kilrea,Diamond Kilrea War Memorial",
+      "returnRoute": "Diamond Kilrea War Memorial,Church Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96628",
+      "coordinates": {
+        "latitude": 54.950167,
+        "longitude": -6.5564648,
+        "label": "Kilrea"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96625",
+      "title": "Royal British Legion, Upperlands",
+      "date": "2026-11-08",
+      "startTime": "14:10",
+      "endTime": "15:00",
+      "location": "Upperlands",
+      "route": "Upperlands RBL,Culnady Road Upperlands (Car to Coleraine Road),Coleraine Road Maghera,Main Street Maghera,Lower Main Street,Church Street Maghera,St Lurach's",
+      "returnRoute": "St Lurach's - Church Street,Lower Main Street,Coleraine Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96625",
+      "coordinates": {
+        "latitude": 54.8788337,
+        "longitude": -6.6403915,
+        "label": "Upperlands"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96377",
+      "title": "Cregagh, Wandsworth and Ormeau Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "11:00",
+      "location": "Castlereagh",
+      "route": "Montgomery Road,Creagh Road,Hamel Drive,Thiepval Ave,Picardy Ave,Montgomery Road,Bapume Ave,Picardy Ave",
+      "returnRoute": "Picardy Ave,Montgomery Road,Bapume Ave,Thiepval Ave,Hamel Drive,Cregagh Road,RBL Montgomery Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96377",
+      "coordinates": {
+        "latitude": 54.5763441,
+        "longitude": -5.8812117,
+        "label": "Castlereagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96592",
+      "title": "Castlewellan District LOL No 12",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "14:30",
+      "location": "Newcastle",
+      "route": "Newcastle Orange Hall Causeway Road,Main Street Central Promenade,St John's Parish Church",
+      "returnRoute": "St John's Parish Church,Central Promenade,Bryansford Road,Shimna Road,Newcastle Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96592",
+      "coordinates": {
+        "latitude": 54.2118323,
+        "longitude": -5.8897216,
+        "label": "Newcastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=95385",
+      "title": "Ballywalter Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "11:20",
+      "location": "Ballywalter",
+      "route": "Beach Carpark,War Memorial Main Street,Pres Church Main Street",
+      "returnRoute": "Pres Church Main Street,Main Street,Broadway,Main Street,Beach Carpark Ballywalter",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=95385",
+      "coordinates": {
+        "latitude": 54.5439048,
+        "longitude": -5.4867684,
+        "label": "Ballywalter"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96498",
+      "title": "Antrim Branch Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "17:00",
+      "location": "Antrim",
+      "route": "Car Park Inver Road,Main Road,Past Lovat House,RUC Memorial Alexander,Irvine Park,Church Street,All Saints Parish Church",
+      "returnRoute": "All Saints Church,Market Square,War Memorial,Bridge Street,Royal British Legion Premises,(Dispersal of main parade. Youth Organisations continue:),High Street,Railway Street (for dispersal)",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96498",
+      "coordinates": {
+        "latitude": 54.715139,
+        "longitude": -6.2192038,
+        "label": "Antrim"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96435",
+      "title": "Newcastle Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "11:15",
+      "endTime": "11:30",
+      "location": "Newcastle",
+      "route": "Newcastle Main Street,Causeway Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96435",
+      "coordinates": {
+        "latitude": 54.2118323,
+        "longitude": -5.8897216,
+        "label": "Newcastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96652",
+      "title": "Royal British legion Newry Branch",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "10:45",
+      "location": "Newry",
+      "route": "Sandy Street,Trevor Hill,Kildare Street,Bank Parade,Newry Cenotaph",
+      "returnRoute": "Newry Cenotaph,Bank Parade,Stone Bridge,Trevor Hill,Sandy Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96652",
+      "coordinates": {
+        "latitude": 54.1775283,
+        "longitude": -6.337506,
+        "label": "Newry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96588",
+      "title": "Royal British Legion Killyleagh/Killinchy Branch",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "location": "Killyleagh",
+      "route": "Quay,Shore Street,High Street,Castle Square (Wreath laying),Frederick Square,Church Hill,Church",
+      "returnRoute": "Church,Church Hill,Cross Street,High Street,Frederick Street,Orange Hall,Band Only from this point,Cross Street,Shore Road,Quay",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96588",
+      "coordinates": {
+        "latitude": 54.3990651,
+        "longitude": -5.6505384,
+        "label": "Killyleagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96565",
+      "title": "LOL No 646 Newtownsaville",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:45",
+      "location": "Ballygawley",
+      "route": "Remembrance at the Memorial (no parade)",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96565",
+      "coordinates": {
+        "latitude": 54.4623431,
+        "longitude": -7.028868,
+        "label": "Ballygawley"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96497",
+      "title": "Loughgall & District War Memorial Committee",
+      "date": "2026-11-08",
+      "startTime": "11:15",
+      "endTime": "11:15",
+      "location": "Loughgall",
+      "route": "Main Street Loughgall",
+      "returnRoute": "Main Street Loughgall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96497",
+      "coordinates": {
+        "latitude": 54.4080941,
+        "longitude": -6.6074725,
+        "label": "Loughgall"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96556",
+      "title": "1st Annaghmore Boys' Brigade",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "10:50",
+      "location": "Annaghmore",
+      "route": "Clarke's Yard,Moss Road,Annaghmore Parish Church",
+      "returnRoute": "Annaghmore Parish Church,Moss Road,Clarke's Yard",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96556",
+      "coordinates": {
+        "latitude": 54.5279599,
+        "longitude": -6.668787,
+        "label": "Annaghmore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=95780",
+      "title": "Royal British Legion  Lisburn",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:20",
+      "location": "Lisburn",
+      "route": "Sackville Street,Wallace Avenue,Seymour Street,Stopping at war memorial for an of remembrance,Castle Street,Disperse to Lisburn Church of Ireland Cathedral",
+      "returnRoute": "Castle Street,Bow Street,Antrim Street,Batchelors Walk,Railway Street,Wallace Avenue,Sackville Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=95780",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96603",
+      "title": "Royal British Legion Waterside",
+      "date": "2026-11-08",
+      "startTime": "09:30",
+      "endTime": "10:45",
+      "location": "Derry-Londonderry",
+      "route": "Iona Terrace,May Street,Bond Street,Glendermott Road,Clooney Terrace,Spencer Road,Craigavon Bridge,Carlisle Road,Ferryquay Street,Artillery Street,London Street,Bishop Street,The Cenotaph/The Diamond",
+      "returnRoute": "The Diamond,Bishop Street,Palace Lane,Society Street,London Street,Hawkin Street,Carlisle Road,Craigavon Bridge,Spencer Road,Clooney Terrace,Glendermott Road,Bond Street,May Street,Iona Terrace",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96603",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96572",
+      "title": "Royal British Legion Newtownards",
+      "date": "2026-11-08",
+      "startTime": "11:05",
+      "endTime": "11:45",
+      "location": "Newtownards",
+      "route": "Court Square,Castle Place,High Street,Conway Square,High Street,Mill Street,Gibsons Lane,Regents Street,Francis Street,Prices Lane",
+      "returnRoute": "Prices Lane,Frances Street,Zion Place Roundabout,Georges Street,Portaferry Road,Court Street,Court Square",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96572",
+      "coordinates": {
+        "latitude": 54.5933779,
+        "longitude": -5.6960935,
+        "label": "Newtownards"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96581",
+      "title": "Royal British Legion Ballymena",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Ballymena",
+      "route": "Trostan Avenue,Castle Street,Bridge Street,Waveney Road,Galgorm Road,(Memorial Gardens - Service 10:50 to 11:30),Galgorm Road,The Pentagon,Lower Mill Street,Wellington Street,Church Street,Castle Street,Meeting House Street,1st Ballymena Church",
+      "returnRoute": "Meeting House Street,Trostan Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96581",
+      "coordinates": {
+        "latitude": 54.8662966,
+        "longitude": -6.2760159,
+        "label": "Ballymena"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96717",
+      "title": "West Belfast Athletic And Cultural Association",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "11:00",
+      "location": "Belfast",
+      "route": "Tennant Street,Shankill Road,Woodvale Road,Cambrai Street,Enfield Street,Disraeli Street",
+      "returnRoute": "Disraeli Street,Enfield Street,Cambrai Street,Woodvale Road,Shankill Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96717",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96541",
+      "title": "LOL No 38 Star Of The North Aughintober",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Dungannon",
+      "route": "British Legion Building Scotch Street,Market Square,St Annes Church Scotch Street",
+      "returnRoute": "St Annes Church of Ireland Church Street,Scotch Street Carpark via Chursh Street/Short Highway",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96541",
+      "coordinates": {
+        "latitude": 54.5039088,
+        "longitude": -6.7703622,
+        "label": "Dungannon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96542",
+      "title": "LOL No 38 Star Of The North Aughintober",
+      "date": "2026-11-08",
+      "startTime": "14:45",
+      "endTime": "15:30",
+      "location": "Moy",
+      "route": "Health Centre Carpark,Main Street,Moy Square",
+      "returnRoute": "Moy Square,Health Centre Building",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96542",
+      "coordinates": {
+        "latitude": 54.4467386,
+        "longitude": -6.6911155,
+        "label": "Moy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96633",
+      "title": "Seagoe Church Lads",
+      "date": "2026-11-08",
+      "startTime": "09:45",
+      "endTime": "10:15",
+      "location": "Portadown",
+      "route": "James Street,Bridge Street,Seagoe Road",
+      "returnRoute": "Seagoe Road,Bridge Street,James Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96633",
+      "coordinates": {
+        "latitude": 54.4242284,
+        "longitude": -6.4412133,
+        "label": "Portadown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=93340",
+      "title": "Lower Iveagh District LOL No 1",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Dromore",
+      "route": "Hillsborough Road,Princess Street,Front of Market Square,Stopping at War Memorial,Gallow Street,Maypole Hill",
+      "returnRoute": "Maypole Hill,Gallow Street,Front of Market Square,Princess Street,Hillsborough Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=93340",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96630",
+      "title": "Glengormley Ulster Defence Union Old Comrades",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Belfast",
+      "route": "Junction Shankill Parade/Shankill Road,Shankill Road,Shankill Memorial Garden",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96630",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96658",
+      "title": "Bangor Ex-Services Club",
+      "date": "2026-11-08",
+      "startTime": "10:15",
+      "endTime": "10:30",
+      "location": "Bangor",
+      "route": "High Street,Bingham Street,Mills Road,Hamilton Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96658",
+      "coordinates": {
+        "latitude": 54.662595,
+        "longitude": -5.6679127,
+        "label": "Bangor"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96637",
+      "title": "Upper Falls Protestant Boys Flute Band",
+      "date": "2026-11-08",
+      "startTime": "12:30",
+      "endTime": "14:00",
+      "location": "Suffolk",
+      "route": "Ornanmore Drive,Blacks Road,Tildarg Avenue,Donegore Gardens,Blacks Road,Ringford Crescent,Kells Avenue,Ornanmore Drive",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96637",
+      "coordinates": {
+        "latitude": 54.8689134,
+        "longitude": -6.2684485,
+        "label": "Suffolk Street"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96665",
+      "title": "Royal British Legion Castledawson & District",
+      "date": "2026-11-08",
+      "startTime": "10:15",
+      "endTime": "11:40",
+      "location": "Castledawson",
+      "route": "War Memorial Hall Castledawson Amateur FB Only,Main Street,Boyne Row,Magherafelt Road,Loughinsholin Park At this point pick up the main body of the parade.,Magherafelt Road,Boyne Row,Main Street,Station Road,War Memorial  Wreath Laying,Main Street,Bridge Street,Church",
+      "returnRoute": "Church, Bridge Street,Main Street,Boyne Row,Magherafelt Road,Loughinsholin Park,Magherafelt Road,Boyne Row,Main Street,War Memorial Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96665",
+      "coordinates": {
+        "latitude": 54.7769235,
+        "longitude": -6.5576806,
+        "label": "Castledawson"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96697",
+      "title": "Ballyhalbert Remembrance Day Committee",
+      "date": "2026-11-08",
+      "startTime": "14:45",
+      "endTime": "15:45",
+      "location": "Ballyhalbert",
+      "route": "Old Victoria Road,Victoria Road,High Street,Harbour Road",
+      "returnRoute": "Harbour Road,High Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96697",
+      "coordinates": {
+        "latitude": 54.4948453,
+        "longitude": -5.4605996,
+        "label": "Ballyhalbert"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96606",
+      "title": "Raven Social Club",
+      "date": "2026-11-08",
+      "startTime": "09:30",
+      "endTime": "10:00",
+      "location": "East Belfast",
+      "route": "Castlereagh Street,Castlereagh Street,Templemore Avenue,Beersbridge Road,Cherryvillle Street",
+      "returnRoute": "Cherryville Street,Beersbridge Road,Templemore Avenue,Castlereagh Street,The Mount",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96606",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96642",
+      "title": "Randalstown Cultural Awareness Association",
+      "date": "2026-11-08",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": "Randalstown",
+      "route": "Neillsbrook Road,Neillsbrook Memorial Garden",
+      "returnRoute": "Neillsbrook Memorial Garden,Neillsbrook Road,Neillsbrook Community Centre",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96642",
+      "coordinates": {
+        "latitude": 54.7498918,
+        "longitude": -6.3197638,
+        "label": "Randalstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96503",
+      "title": "South Belfast Remembrance Committee",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Belfast",
+      "route": "Monarch Street,Lemberg Street,Roden Street,Donegall Road,Sandy Row,City Way",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96503",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96461",
+      "title": "Ballymoney Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "13.50",
+      "endTime": "14:45",
+      "location": "Ballymoney",
+      "route": "Townhead Street Ballymoney,North Road,High Street,Main Street,Meetinghouse Street,1st Ballymoney Pres Church",
+      "returnRoute": "1st Ballymoney Pres Church,Meetinghouse Street,Queen Street,Church Street,High Street,War Memorial Ballymoney",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96461",
+      "coordinates": {
+        "latitude": 55.0702727,
+        "longitude": -6.5172758,
+        "label": "Ballymoney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96441",
+      "title": "Articlave Flute Band",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "12:00",
+      "location": "Castlerock",
+      "route": "Castlerock Orange Hall,Castle Walk,Sea Road,Circular Road (Castlerock War Memorial),Sea Road,Main Street,Promenade,Sea Road,Castle Walk,Castlerock Orange Hall",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96441",
+      "coordinates": {
+        "latitude": 55.16482,
+        "longitude": -6.7884142,
+        "label": "Castlerock"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96610",
+      "title": "The Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "11:45",
+      "endTime": "13:00",
+      "location": "Colebrooke",
+      "route": "Colebrooke Park Road,St Ronans Church Colebrooke",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96610",
+      "coordinates": {
+        "latitude": 54.3233428,
+        "longitude": -7.4227494,
+        "label": "Colebrooke"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96608",
+      "title": "The Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": "Brookeborough",
+      "route": "Station Road Brookeborough,Main Street,Junction Main Street and Taiges Hill Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96608",
+      "coordinates": {
+        "latitude": 54.3151816,
+        "longitude": -7.4066823,
+        "label": "Brookeborough"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96668",
+      "title": "1st Ballygowan Boys' Brigade",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:15",
+      "location": "Ballygowan",
+      "route": "Comber Road,Short service of Remembrance at Garden of Remembrance Ballygowan,Circuit going clockwise around Ballygowan Roundabout,Church Hill",
+      "returnRoute": "Church Hill,Belfast Road,The Cresent,Belfast Road,Comber Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96668",
+      "coordinates": {
+        "latitude": 54.5018813,
+        "longitude": -5.7918013,
+        "label": "Ballygowan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96695",
+      "title": "Sydenham Blues and Royals Flute Band",
+      "date": "2026-11-08",
+      "startTime": "09:30",
+      "endTime": "09:30",
+      "location": "East Belfast",
+      "route": "Inverary Avenue,Larkfield Road,Consbrooke Aveue,Hollywood Road,Dundela Avenue,Belmont Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96695",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96539",
+      "title": "City of Armagh Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "location": "Armagh",
+      "route": "Dobbin Street,Scotch Street,Market Street,Upper English Street,College Street,The Cenotaph (service),The Mall East,Goal Square,The Mall West",
+      "returnRoute": "1st Armagh Presbyterian Church,The Mall West,Gaol Square,Barrack Street,Dobbin Street Junction,Dobbin Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96539",
+      "coordinates": {
+        "latitude": 54.3481977,
+        "longitude": -6.6540432,
+        "label": "Armagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96677",
+      "title": "St Johns Parish Church, Moira",
+      "date": "2026-11-08",
+      "startTime": "10:25",
+      "endTime": "10:50",
+      "location": "Moira",
+      "route": "Main Street,St John's Parish Church",
+      "returnRoute": "St John's Church Grounds,Clarehill Road,Meeting Street,Main Street,St John's Parish Centre",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96677",
+      "coordinates": {
+        "latitude": 54.4792925,
+        "longitude": -6.2301652,
+        "label": "Moira"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96517",
+      "title": "Royal British Legion Lurgan & Brownlow",
+      "date": "2026-11-08",
+      "startTime": "10:15",
+      "endTime": "11:25",
+      "location": "Lurgan",
+      "route": "RBL Legion,Union Street,High Street,Carnegie Street,Castle Lane,Market Street (against the traffic),Lurgan War Memorial",
+      "returnRoute": "Market Street (in direction of traffic),Union Street opposite the Mechanics' Institute,Salvation Army Citadel",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96517",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96712",
+      "title": "LOL No 1087 Newbuildings Victoria",
+      "date": "2026-11-08",
+      "startTime": "14:40",
+      "endTime": "15:30",
+      "location": "Newbuildings",
+      "route": "Newbuildings Community Centre,Duncastle Road,Primity Crescent,Duncastle Road,Pause at Newbuildings Remembrance Garden,Duncastle Road,Newbuildings Community Centre",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96712",
+      "coordinates": {
+        "latitude": 54.959093,
+        "longitude": -7.3587103,
+        "label": "Newbuildings"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96482",
+      "title": "Ballymoney Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "location": "Ballymoney",
+      "route": "High Street Ballymoney",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96482",
+      "coordinates": {
+        "latitude": 55.0702727,
+        "longitude": -6.5172758,
+        "label": "Ballymoney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96682",
+      "title": "Fintona Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "location": "Fintona",
+      "route": "Kiln Street,Tattymoyle Road,Main Street,Mill Street,Craigavon Road,Presbyterian Church",
+      "returnRoute": "Presbyterian Church, Craigavon Road,Mill Street,Kiln Street,Tattymoyle Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96682",
+      "coordinates": {
+        "latitude": 54.4969713,
+        "longitude": -7.319246,
+        "label": "Fintona"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96684",
+      "title": "The Regimental Association of the Ulster Defence Regiment",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": "15:30",
+      "location": "Lurgan",
+      "route": "New Line Cemetery Car Park,Tandragee Road,New Line Road,Cemetery",
+      "returnRoute": "Cemetery,New Line Road,New Line Cemetery Car Park",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96684",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96600",
+      "title": "Royal British Legion Castlederg",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:30",
+      "location": "Castlederg",
+      "route": "Albert Street Car Park,Lower Strabane Road,Main Street,Diamond - Stopping for wreath laying and an Act of Remembrance,William Street,2nd Castlederg Presbyterian Church",
+      "returnRoute": "2nd Castlederg Presbyterian Church,William Street,John Street,Main Street,Lower Strabane Road,Albert Street Car Park",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96600",
+      "coordinates": {
+        "latitude": 54.7087956,
+        "longitude": -7.593125,
+        "label": "Castlederg"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96660",
+      "title": "Royal British Legion - Kilkeel Branch",
+      "date": "2026-11-08",
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "location": "Annalong",
+      "route": "Main Street,Glassdrumman Road,Kilkeel Road,Kilhorne Church of Ireland",
+      "returnRoute": "Kilhorne Church of Ireland,Kilkeel Road,Glassdrumman Road,Main Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96660",
+      "coordinates": {
+        "latitude": 54.1075749,
+        "longitude": -5.8972213,
+        "label": "Annalong"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96654",
+      "title": "Royal British Legion Millisle Branch",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Millisle",
+      "route": "Churchill Avenue,Abbey Road,Millisle",
+      "returnRoute": "Main Street,Abbey Road,Churchill Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96654",
+      "coordinates": {
+        "latitude": 54.60782,
+        "longitude": -5.5284632,
+        "label": "Millisle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96450",
+      "title": "Lisbellaw veteran group",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "14:45",
+      "location": "Lisbellaw",
+      "route": "Main Street,Left turn at the village chemists,Circular Road, War Memorial (wreaths laying),Church Brea,Church of Ireland Church",
+      "returnRoute": "Church of Ireland Church,Church Brea,Main Street,*Turn at the bottom of the town*,Main Street,Turn right at the village chemist,Circular Road,Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96450",
+      "coordinates": {
+        "latitude": 54.3171222,
+        "longitude": -7.5373355,
+        "label": "Lisbellaw"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96617",
+      "title": "Rathfriland Branch, Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "15:10",
+      "endTime": "16:15",
+      "location": "Rathfriland",
+      "route": "Downpatrick Street,Main Street,Church Square (for Act of Remembrance and wreath laying),Caddells Lane,Downpatrick Street,Main Street,Church Square,Caddells Lane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96617",
+      "coordinates": {
+        "latitude": 54.2381785,
+        "longitude": -6.1603136,
+        "label": "Rathfriland"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96584",
+      "title": "east antrim and north belfast somme",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "10:30",
+      "location": "Belfast",
+      "route": "Bottom of Mountvernon Park,Top of Mountvernon Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96584",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96585",
+      "title": "east antrim and north belfast somme",
+      "date": "2026-11-08",
+      "startTime": "12:00",
+      "endTime": "12:30",
+      "location": "Monkstown",
+      "route": "Monkstown School \\Monkstown Road,Cashel Drive,Cloyne Crescent",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96585",
+      "coordinates": {
+        "latitude": 54.6950514,
+        "longitude": -5.9168117,
+        "label": "Monkstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96586",
+      "title": "east antrim and north belfast somme",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "location": "Rathcoole",
+      "route": "Innis Park,Derrycoole Way,Shops Derrycoole Way",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96586",
+      "coordinates": {
+        "latitude": 54.6655465,
+        "longitude": -5.9228606,
+        "label": "Rathcoole"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96540",
+      "title": "Portrush Memorial Services Club",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:45",
+      "location": "Portrush",
+      "route": "Dunluce Avenue,Sandhill Drive,Eglinton Street,Mark Street,Main Street",
+      "returnRoute": "Main Street,Eglinton Street,Dunluce Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96540",
+      "coordinates": {
+        "latitude": 55.2045078,
+        "longitude": -6.6528595,
+        "label": "Portrush"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96562",
+      "title": "Royal British Legion, Whitehead Branch",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Whitehead",
+      "route": "Balmoral Avenue,Windsor Avenue,Kings Road,Chester Avenue,Whitehead War Memorial",
+      "returnRoute": "Whitehead War Memorial,Chester Avenue,Kings Road,Edward Road,Balmoral Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96562",
+      "coordinates": {
+        "latitude": 54.7537033,
+        "longitude": -5.7116235,
+        "label": "Whitehead"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96653",
+      "title": "GILFORD YOUNG CONQUERORS FLUTE BAND",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "14:45",
+      "location": "Gilford",
+      "route": "Gilford Orange Hall,Stramore Road,Bridge Street,Banbridge Road,Turn at Eurostar,War Memorial",
+      "returnRoute": "Gilford War Memorial,Banbridge Road,Bridge Street,Stramore Road,Gilford Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96653",
+      "coordinates": {
+        "latitude": 54.3733602,
+        "longitude": -6.359485,
+        "label": "Gilford"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96698",
+      "title": "Coagh District LOL No.10",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "location": "Coagh",
+      "route": "Main Street,Hanover Square,Bridgend Roundabout,Hanover Square,Main Street,Drumconvis Road (Wellbourne),Main Street (Orange Hall)",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96698",
+      "coordinates": {
+        "latitude": 54.6478693,
+        "longitude": -6.6184389,
+        "label": "Coagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96546",
+      "title": "Moyrah Yeomanry LOL71",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Moira",
+      "route": "Old Kilmore Road,Main Street,St John's COI,(Short wreath laying at War Memorial),St Johns,Meeting Street,Presbyterian Church",
+      "returnRoute": "Meeting street,Main Street,Old Kilmore Road,Deramore Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96546",
+      "coordinates": {
+        "latitude": 54.4792925,
+        "longitude": -6.2301652,
+        "label": "Moira"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96691",
+      "title": "Kingshill LOL 319",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Waringstown",
+      "route": "Waringstown Presbyterian Church,Mill Hill,Banbridge Road,Turn at Clare Road Junction,Banbridge Road,Holy Trinity Parish Church",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96691",
+      "coordinates": {
+        "latitude": 54.4383129,
+        "longitude": -6.3009935,
+        "label": "Waringstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96656",
+      "title": "Mountnorris Presbyterian Church",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "11:25",
+      "location": "Mountnorris",
+      "route": "Main Street Mountnorris B133,North end of village,South end of village along B133,Upper Church Carpark",
+      "returnRoute": "Church Hall at South end of village,North along B133 to,Orange hall at North end of village",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96656",
+      "coordinates": {
+        "latitude": 54.2522887,
+        "longitude": -6.4745373,
+        "label": "Mountnorris"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96569",
+      "title": "Wm Strain Wm Lightbody Memorial F.B",
+      "date": "2026-11-08",
+      "startTime": "10:20",
+      "endTime": "11:45",
+      "location": "Newtownards",
+      "route": "South Street,High Street,Mill Street,Scrabo Road,Windsor Avenue,Tower Court",
+      "returnRoute": "Tower Court,Donard Avenue,Circular Road,South Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96569",
+      "coordinates": {
+        "latitude": 54.5933779,
+        "longitude": -5.6960935,
+        "label": "Newtownards"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96722",
+      "title": "Holy Trinity Church Dromore",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "11:00",
+      "location": "Dromore",
+      "route": "Orange Hall,Church",
+      "returnRoute": "Church,Georges Terrace,Roundabout,Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96722",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96621",
+      "title": "The Royal British legion Coalisland Branch",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "13:00",
+      "location": "Stewartstown",
+      "route": "West Street Stewartstown,The Square Stewartstown,North Street Stewartstown,Donaghendry Parish Church",
+      "returnRoute": "North Street Stewartstown,The Square Stewartstown,West Street Stewartstown",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96621",
+      "coordinates": {
+        "latitude": 54.5768423,
+        "longitude": -6.6765557,
+        "label": "Stewartstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96622",
+      "title": "The Royal British legion Coalisland Branch",
+      "date": "2026-11-08",
+      "startTime": "11:45",
+      "endTime": "12:15",
+      "location": "Newmills",
+      "route": "Junction of Roughan Road/Brackaville Road/Farlough Road (Short wreath laying ceremony)",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96622",
+      "coordinates": {
+        "latitude": 54.5516861,
+        "longitude": -6.740477,
+        "label": "Newmills"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96623",
+      "title": "The Royal British legion Coalisland Branch",
+      "date": "2026-11-08",
+      "startTime": "14:40",
+      "endTime": "15:00",
+      "location": "Coalisland",
+      "route": "LoughView  Road Coalisland,Ballynakilly Road Coalisland,Dungannon Road Coalisland",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96623",
+      "coordinates": {
+        "latitude": 54.5394657,
+        "longitude": -6.7004879,
+        "label": "Coalisland"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96559",
+      "title": "Peninsula and Donaghadee Branch Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Donaghadee",
+      "route": "Shore Street,A2,Parade",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96559",
+      "coordinates": {
+        "latitude": 54.6425446,
+        "longitude": -5.5375794,
+        "label": "Donaghadee"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96418",
+      "title": "1st Maralin Boys Brigade",
+      "date": "2026-11-08",
+      "startTime": "10:45",
+      "endTime": "10:50",
+      "location": "Magheralin",
+      "route": "New Forge Road",
+      "returnRoute": "New Forge Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96418",
+      "coordinates": {
+        "latitude": 54.4672237,
+        "longitude": -6.2611343,
+        "label": "Magheralin"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96399",
+      "title": "Royal British Legion Dromore Branch",
+      "date": "2026-11-08",
+      "startTime": "10.50",
+      "endTime": "11:20",
+      "location": "Dromore",
+      "route": "Hillsborough Road,Princess Street,Dromore Square East ( Site of War Memorial),Dromore Square South,Church Street,Banbridge Road",
+      "returnRoute": "Banbridge Road,Church Street,Dromore Square South,Dromore Square East,Dromore Square North,Dromore Square West,Bridge Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96399",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96702",
+      "title": "Whitewell Tartan",
+      "date": "2026-11-08",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "location": "Whitecity",
+      "route": "Whitecity Community Centre,Mulderg Drive,Ballymoney Hill,Thorburn Road,Ballyroney Hill,Garton Way,Kernan Drive,Mulderg Drive,Gunnell Hill,Whitewell Road,Whitewell Road (lay by),Whitewell Road,Gunnell Hill,Mulderg Drive (memorial garden),Whitecity Community Centre",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96702",
+      "coordinates": {
+        "latitude": 54.65195,
+        "longitude": -5.9306405,
+        "label": "Whitecity"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96598",
+      "title": "Aghadowey RBL",
+      "date": "2026-11-08",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "location": "Aghadowey",
+      "route": "Ardreagh Road,Ballydivit Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96598",
+      "coordinates": {
+        "latitude": 55.0303323,
+        "longitude": -6.6629706,
+        "label": "Aghadowey River"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96673",
+      "title": "Garvagh Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:15",
+      "location": "Garvagh",
+      "route": "Main Street Garvagh",
+      "returnRoute": "Main Street Garvagh",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96673",
+      "coordinates": {
+        "latitude": 54.982536,
+        "longitude": -6.6877148,
+        "label": "Garvagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96700",
+      "title": "New Ulster Political Research Group",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "11:45",
+      "location": "Londonderry",
+      "route": "Bonds Street,Roulston Avenue,Lapwing Way,Shearwater Way,Rossdowney Road,Lincoln Court,Act of Rembrance,Lincoln Court,Rossdowney Road,Shearwater Way,Lapwing Way,Roulston Avenue,Bond Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96700",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96430",
+      "title": "STRANOCUM LOL 749",
+      "date": "2026-11-08",
+      "startTime": "08:45",
+      "endTime": "9:00",
+      "location": "Stranocum",
+      "route": "Main Street Stranocum",
+      "returnRoute": "Main Street Stranocum",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96430",
+      "coordinates": {
+        "latitude": 55.1093297,
+        "longitude": -6.4185708,
+        "label": "Stranocum"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96419",
+      "title": "40 (NIH) Sig Sqn",
+      "date": "2026-11-08",
+      "startTime": "09:20",
+      "endTime": "09:45",
+      "location": "East Belfast",
+      "route": "Clonaver Drive,Circular Road,Holywood Road,St Marks Church",
+      "returnRoute": "St Marks Church,Holywood Road,Circular Road,Clonaver Drive",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96419",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96657",
+      "title": "Strabane Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "08:45",
+      "endTime": "09:30",
+      "location": "Strabane",
+      "route": "Derry Road Strabane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96657",
+      "coordinates": {
+        "latitude": 54.826115,
+        "longitude": -7.4627993,
+        "label": "Strabane"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96655",
+      "title": "Strabane Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "14:50",
+      "location": "Sion Mills",
+      "route": "Marshalls Row,Melmont Road,Church of Ireland Church Melmont Road",
+      "returnRoute": "Church Of Ireland church Melmount Road,Melmount Road,Mill Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96655",
+      "coordinates": {
+        "latitude": 54.7878773,
+        "longitude": -7.4728557,
+        "label": "Sion Mills"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96703",
+      "title": "Royal British Legion Hillsborough Branch",
+      "date": "2026-11-08",
+      "startTime": "10:40",
+      "endTime": "10:50",
+      "location": "Hillsborough",
+      "route": "Hillsborough Presbyterian Church,Lisburn Street,Hillsborough War Memorial",
+      "returnRoute": "Hillsborough War Memorial,Main Street,The Square,Main Street,Lisburn Street,Hillsborough Presbyterian Church",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96703",
+      "coordinates": {
+        "latitude": 54.462813,
+        "longitude": -6.0830844,
+        "label": "Royal Hillsborough"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96369",
+      "title": "Carrickfergus Veterrrans",
+      "date": "2026-11-08",
+      "startTime": "10:25",
+      "endTime": "10:50",
+      "location": "Carrickfergus",
+      "route": "Harbour Car Park,Rodgers Quay,Marine Highway,Castle Street,High Street,Joymount",
+      "returnRoute": "Joymount,High Street,Castle Street,Marine Highway,Rodgers Quay,Harbour Car Park",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96369",
+      "coordinates": {
+        "latitude": 54.7136165,
+        "longitude": -5.8073112,
+        "label": "Carrickfergus"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96693",
+      "title": "Royal British Legion Cookstown Branch",
+      "date": "2026-11-08",
+      "startTime": "10:30",
+      "endTime": "11:30",
+      "location": "Cookstown",
+      "route": "Burn Road,William Street (Cenotaph),James Street,Loy Street",
+      "returnRoute": "Loy Street,James Street,Burn Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96693",
+      "coordinates": {
+        "latitude": 54.6436734,
+        "longitude": -6.7416008,
+        "label": "Cookstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96351",
+      "title": "Royal British Legion Bangor Branch",
+      "date": "2026-11-08",
+      "startTime": "10:35",
+      "endTime": "11:00",
+      "location": "Bangor",
+      "route": "Hamilton Road,Ward Park",
+      "returnRoute": "War Memorial Ward Park,Hamilton Road,Lower Main Street,Bridge Street,High Street,Bingham Street,Mills Road,Hamilton Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96351",
+      "coordinates": {
+        "latitude": 54.662595,
+        "longitude": -5.6679127,
+        "label": "Bangor"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96641",
+      "title": "Friends of Crumlin War Memorial",
+      "date": "2026-11-08",
+      "startTime": "15:00",
+      "endTime": "15:20",
+      "location": "Crumlin",
+      "route": "Cidercourt Road Crumlin,Main Street Crumlin,Crumlin Community Centre Grounds,Act of Remembrance to take place at War Memorial,Main Street Crumlin,Crumlin Non Subscribing Presbyterian Church",
+      "returnRoute": "Main Street Crumlin,Cidercourt Road,Crumlin Presbyterian Church Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96641",
+      "coordinates": {
+        "latitude": 54.6206167,
+        "longitude": -6.2149351,
+        "label": "Crumlin"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96452",
+      "title": "tandragee veterans support centre",
+      "date": "2026-11-08",
+      "startTime": "11:00",
+      "endTime": "12:00",
+      "location": "Tandragee",
+      "route": "Cornmarket Street,Market Street,War Memorial",
+      "returnRoute": "Methodist Church, Market Street, Roundabout, Markethill Road, Sintons Carpark, Market Street,War Memorial, Market Street, Methodist Church, Market Street  for service,Leaving Methodist Church (12:30),Roundabout, Markill Road, Sintons Carpark on Market Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96452",
+      "coordinates": {
+        "latitude": 54.3525124,
+        "longitude": -6.4123562,
+        "label": "Tandragee"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96582",
+      "title": "Pride Of The Island Flute Band",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "10:00",
+      "location": "Whitehead",
+      "route": "Marine Parade,Marine Avenue,Chester Avenue,King Road War Memorial,Edward Road,Balmoral Avenue",
+      "returnRoute": "Marine Parade,Marine Avenue,Chester Avenue,King Road,Edward Road,Balmoral Avenue",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96582",
+      "coordinates": {
+        "latitude": 54.7537033,
+        "longitude": -5.7116235,
+        "label": "Whitehead"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96596",
+      "title": "Coleraine Branch the Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:35",
+      "endTime": "11:25",
+      "location": "Coleraine",
+      "route": "Beresford Road,Blindgate Street,New Row,Church Street,The Diamond,Coleraine War Memorial,The Diamond,Church Street,St Patrick's Church",
+      "returnRoute": "St Patrick's Church,Church Street,The Diamond,The Diamond,Coleraine Town Hall,The Diamond,Church Street,Long Comns,Royal British Legion - Beresford Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96596",
+      "coordinates": {
+        "latitude": 55.1315912,
+        "longitude": -6.671861,
+        "label": "Coleraine"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96662",
+      "title": "Poyntzpass RBL",
+      "date": "2026-11-08",
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "location": "Poyntzpass",
+      "route": "Poyntzpass RBL Hall,Meeting Street,Poyntzpass Presbyterian Church",
+      "returnRoute": "Poyntzpass Presbyterian Church,Meeting Place,Poyntzpass RBL Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96662",
+      "coordinates": {
+        "latitude": 54.2939101,
+        "longitude": -6.3745902,
+        "label": "Poyntzpass"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96688",
+      "title": "Whiteabbey Royal British Legion Branch and Club Ltd",
+      "date": "2026-11-08",
+      "startTime": "14:30",
+      "endTime": "16:00",
+      "location": "Whiteabbey",
+      "route": "Abbeyville Street,Shore Road,Whiteabbey Presbyterian Church",
+      "returnRoute": "Whiteabbey Presbyterian church,Shore Road,Cenotaph Memorial,Whiteabbey Royal British Legion",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96688",
+      "coordinates": {
+        "latitude": 54.6721546,
+        "longitude": -5.9045207,
+        "label": "Whiteabbey"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96624",
+      "title": "Flutes & Drums Band Donaghadee",
+      "date": "2026-11-08",
+      "startTime": "10:00",
+      "endTime": "10:25",
+      "location": "Donaghadee",
+      "route": "Manor Street Orange Hall,Manor Street,High Street,Moat Street,East Street,Bennetts Avenue,New Road,Warren Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96624",
+      "coordinates": {
+        "latitude": 54.6425446,
+        "longitude": -5.5375794,
+        "label": "Donaghadee"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96472",
+      "title": "Portadown Branch of the Royal British Legion",
+      "date": "2026-11-08",
+      "startTime": "10:20",
+      "endTime": "10:40",
+      "location": "Portadown",
+      "route": "Thomas Street,Market Street,Church Street,War Memorial",
+      "returnRoute": "West Street,High Street,Market Street,Thomas Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96472",
+      "coordinates": {
+        "latitude": 54.4242284,
+        "longitude": -6.4412133,
+        "label": "Portadown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96614",
+      "title": "152 NI Regt",
+      "date": "2026-11-08",
+      "startTime": "09:40",
+      "endTime": "10:20",
+      "location": "Coleraine",
+      "route": "Army Reserve Centre,Artillery Road,Bushmills Road,Railway Road,Mill St,Long Commons,RBL Long Commons",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96614",
+      "coordinates": {
+        "latitude": 55.1315912,
+        "longitude": -6.671861,
+        "label": "Coleraine"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96502",
+      "title": "Threshold Sports",
+      "date": "2026-11-10",
+      "startTime": "07:30",
+      "endTime": "21:30",
+      "location": "Belfast",
+      "route": "Event route map - https://www.google.co.uk/maps/d/viewer?mid=1Ji9BYcLJMeizI39dCnTqzhoqehHH3-w&ll=54.50621285202157%2C-6.598514937922442&z=10,Olderfleet Road (Larne Harbour),Randalstown,Toome,Magherafelt,Moneymore,Stewartstown,Coalisland,Tamnamore,Portadown,Lurgan,Lisburn,Dunmurry,Dargan Road (Belfast Ferry Port)",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96502",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96462",
+      "title": "Ballymoney Royal British Legion",
+      "date": "2026-11-11",
+      "startTime": "10:45",
+      "endTime": "11:20",
+      "location": "Ballymoney",
+      "route": "High Street Ballymoney",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96462",
+      "coordinates": {
+        "latitude": 55.0702727,
+        "longitude": -6.5172758,
+        "label": "Ballymoney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96616",
+      "title": "LOL No 1908 Mill Street Heroes",
+      "date": "2026-11-11",
+      "startTime": "10:30",
+      "endTime": "10:45",
+      "location": "Castlereagh",
+      "route": "Cregagh Road ( Bus Terminnus/ turning Circle),Cregagh Park,Cregagh Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96616",
+      "coordinates": {
+        "latitude": 54.5763441,
+        "longitude": -5.8812117,
+        "label": "Castlereagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96705",
+      "title": "Banbridge Branch",
+      "date": "2026-11-11",
+      "startTime": "10:50",
+      "endTime": "11:25",
+      "location": "Banbridge",
+      "route": "Banbridge Cenotaph",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96705",
+      "coordinates": {
+        "latitude": 54.3514168,
+        "longitude": -6.2714623,
+        "label": "Banbridge"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96589",
+      "title": "Carnmoney/Glengormley RBL",
+      "date": "2026-11-11",
+      "startTime": "10:40",
+      "endTime": "10:55",
+      "location": "Glengormley",
+      "route": "Glencairn Drive,Ballyclare Road",
+      "returnRoute": "Ballyclare Road,Glencairn Drive",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96589",
+      "coordinates": {
+        "latitude": 54.6718077,
+        "longitude": -5.9594082,
+        "label": "Glengormley"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96504",
+      "title": "Culmore Community Partnership",
+      "date": "2026-11-13",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Derry",
+      "route": "Culmore Point Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96504",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=94470",
+      "title": "Men's Alliance (NI)",
+      "date": "2026-11-14",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Writers Square,North Street,Royal Avenue,Donegal Place,Chichester Street,Arthur Street,Corn Market,Ann Street,Church Lane,High Street,Bridge Street,Waring Street,Donegal Street,Writers Square",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=94470",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96708",
+      "title": "Bushmills United Football Club",
+      "date": "2026-11-14",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Bushmills",
+      "route": "Dunluce Road,Main Street,Ballinlea Road,Whitepark Road,Main Street,Dunluce Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96708",
+      "coordinates": {
+        "latitude": 55.2059909,
+        "longitude": -6.5234165,
+        "label": "Bushmills"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=94564",
+      "title": "Castlecourt Shopping Centre",
+      "date": "2026-11-14",
+      "startTime": "12:00",
+      "endTime": "12:00",
+      "location": "Belfast",
+      "route": "Franklin Street,Bedford Street,Donegall Square West,Wellington Place,Donegall Place,Royal Avenue",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=94564",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96448",
+      "title": "Mid and East Antrim Council",
+      "date": "2026-11-14",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": "Ballymena",
+      "route": "Wellington Street,Ballymoney Street,William Street,Broughshane Street,Church Street,Bryan Street,Wellington Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96448",
+      "coordinates": {
+        "latitude": 54.8662966,
+        "longitude": -6.2760159,
+        "label": "Ballymena"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96651",
+      "title": "1st Bovevagh Scouts",
+      "date": "2026-11-15",
+      "startTime": "10:45",
+      "endTime": "11:30",
+      "location": "Burnfoot",
+      "route": "Straw Road,Drumrane Road,Church Lane",
+      "returnRoute": "Church Lane,Drumrane Road,Straw Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96651",
+      "coordinates": {
+        "latitude": 54.9650381,
+        "longitude": -6.938965,
+        "label": "Burnfoot"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96699",
+      "title": "LOL 622 Inniskillings",
+      "date": "2026-11-15",
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "location": "Enniskillen",
+      "route": "Tempo Road,Dublin Road,Belmore Street,War Memorial Service of remembrance (30mins),Belmore Street,Dublin Road,Wickham Place,Tempo Road - Methodist Church",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96699",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96344",
+      "title": "1st Caledon Boys' Brigade",
+      "date": "2026-11-15",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Caledon",
+      "route": "Mill Street,Main Street,Churchill",
+      "returnRoute": "Churchill,Main Street,Mill Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96344",
+      "coordinates": {
+        "latitude": 54.3509691,
+        "longitude": -6.8377547,
+        "label": "Caledon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96721",
+      "title": "Mountjoy Boys' & Girls' Brigade",
+      "date": "2026-11-15",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Omagh",
+      "route": "Mountjoy Church Hall,Castletown Road,Mountjoy Presbyterian Church",
+      "returnRoute": "Mountjoy Presbyterian Church,Castletown Road,Mountjoy Church Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96721",
+      "coordinates": {
+        "latitude": 54.5992486,
+        "longitude": -7.3029907,
+        "label": "Omagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96643",
+      "title": "1st Tamlaght O’Crilly Boys Brigade",
+      "date": "2026-11-15",
+      "startTime": "14:15",
+      "endTime": "14:35",
+      "location": "Tamlaght O'Crilly",
+      "route": "Tamlaght Road",
+      "returnRoute": "Tamlaght Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96643",
+      "coordinates": {
+        "latitude": 54.9079208,
+        "longitude": -6.5991389,
+        "label": "Tamlaght O'Crilly"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96666",
+      "title": "Tartaraghan Boys Brigade",
+      "date": "2026-11-15",
+      "startTime": "11:10",
+      "endTime": "11:20",
+      "location": "Tartaraghan",
+      "route": "Clontylew Road Portadown",
+      "returnRoute": "Clontylew Road Portadown",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96666",
+      "coordinates": {
+        "latitude": 54.4756675,
+        "longitude": -6.5428237,
+        "label": "Tartaraghan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96577",
+      "title": "253rd (Ballykelly) Girls Brigade & 1st Ballykelly Boys Brigade",
+      "date": "2026-11-15",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "location": "Ballykelly",
+      "route": "Station Road,Clooney Road,Main Street,Ballykelly Presbyterian Church (Main Pedestrian Gate)",
+      "returnRoute": "Ballykelly Presbyterian Church (Main Pedestrian Gate),Main Street,Clooney Road,Station Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96577",
+      "coordinates": {
+        "latitude": 55.044791,
+        "longitude": -7.0166599,
+        "label": "Ballykelly"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=94153",
+      "title": "Tyrone Underwater Search & Recovery",
+      "date": "2026-11-16",
+      "startTime": "03:00",
+      "endTime": "09:00",
+      "location": "Lurgan",
+      "route": "Lurgan,Moira,Lisburn,Kingsway,Ormeau Road,Stormont,Lurgan",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=94153",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96741",
+      "title": "St. Gerard's School and Support Services",
+      "date": "2026-11-17",
+      "startTime": "11:00",
+      "endTime": "11:30",
+      "location": "Belfast",
+      "route": "St Gerards School,Blacks Road,Colin Glen Leisure Centre",
+      "returnRoute": "Colin Glen Leisure Centre,Blacks Road,St Gerards School",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96741",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96650",
+      "title": "BNL Productions",
+      "date": "2026-11-17",
+      "startTime": "16:45",
+      "endTime": "16:45",
+      "location": "Craigavon",
+      "route": "St. Anthony's Car Park,Legahory Plaza - (front of Legahory Centre),St. Anthony's Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96650",
+      "coordinates": {
+        "latitude": 54.4507201,
+        "longitude": -6.3921622,
+        "label": "Craigavon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96667",
+      "title": "Lisburn and Castlereagh City Council",
+      "date": "2026-11-19",
+      "startTime": "19:30",
+      "endTime": "20:00",
+      "location": "Lisburn",
+      "route": "Market Square South,Market Square East,Castle Street,Castle Gardens,Lisburn Cathedral",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96667",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96626",
+      "title": "Causeway Coast & Glens Borough Council",
+      "date": "2026-11-19",
+      "startTime": "18:50",
+      "endTime": "20:00",
+      "location": "Ballymoney",
+      "route": "Megaw Park,Coleraine Road,High Street,Main Street,Meeting House Street,Queen Street,Church Street,Victoria Street,Charles Street,Coleraine Road,Megaw Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96626",
+      "coordinates": {
+        "latitude": 55.0702727,
+        "longitude": -6.5172758,
+        "label": "Ballymoney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96447",
+      "title": "Mid and East Antrim Council",
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "20:00",
+      "location": "Larne",
+      "route": "Station Road,Bridge Street,Upper Main Street,Main Street,Upper Main Street,Bridge Street,Station Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96447",
+      "coordinates": {
+        "latitude": 54.8508458,
+        "longitude": -5.8183116,
+        "label": "Larne"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96601",
+      "title": "Derry City and Strabane District Council",
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "location": "Derry",
+      "route": "Bishop Street Car Park,Bishop Street,The Diamond,Ferryquay Street,Orchard Street,Foyle Street,Whitaker Street,The Guildhall,Waterloo Place,Strand Road,Victoria Market Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96601",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96719",
+      "title": "Royal Hillsborough Apprentice Boys of Derry",
+      "date": "2026-11-20",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "location": "Lisburn",
+      "route": "Wallace Avenue at Orange Hall,Railway Street,Market Square,Market Street,Smithfield square,Market Place,Market Place *Stop for ten minutes to lay wreath at \"Fun Run Murder Memorial*,Chapel Hill,Longstone Street (Manor Roundabout),Chapel Hill,Bow Street,Market Square,Railway Street,Wallace Avenue",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96719",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96743",
+      "title": "Mulligans Tractor and Truck Run",
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Draperstown",
+      "route": "McGeehan’s Yard - Sixtowns Road,Saint Patrick’s Street,Tobermore Road,The Square,High Street,The Back Row",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96743",
+      "coordinates": {
+        "latitude": 54.79358,
+        "longitude": -6.7842045,
+        "label": "Draperstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96499",
+      "title": "Quality Assurance",
+      "date": "2026-11-20",
+      "startTime": "19:20",
+      "endTime": "19:40",
+      "location": "Mosside",
+      "route": "Mosside Community Centre, Community Walk Mosside,Moyarget Road,Mosside Gardens",
+      "returnRoute": "Moyarget Road,Mosside Community Centre",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96499",
+      "coordinates": {
+        "latitude": 55.1541722,
+        "longitude": -6.4083116,
+        "label": "Mosside Garden"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96638",
+      "title": "D.A.FORGIE",
+      "date": "2026-11-21",
+      "startTime": "19:00",
+      "endTime": "19:00",
+      "location": "Limavady",
+      "route": "The Showgrounds -  Rathmore Road/A371 Limavady,Rathmore Road,Broad Road,Windyhill Road,Aghanloo Road,Seacoast Road,Linenhall Street,Main Street,Connell Street,Irish Green Street",
+      "returnRoute": "Catherine Street,Linenhall Street,Main Street,Ballyclose Street,Church Street,Rathmore Road,Football Club",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96638",
+      "coordinates": {
+        "latitude": 55.0504857,
+        "longitude": -6.9505134,
+        "label": "Limavady"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96649",
+      "title": "BNL Productions",
+      "date": "2026-11-21",
+      "startTime": "16:45",
+      "endTime": "17:00",
+      "location": "Dromore",
+      "route": "Mossvale Road,Hillsborough Road / Princes Street,Market Square",
+      "returnRoute": "Market Square,Princes Street / Hillsborough Road,Mossvale Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96649",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96730",
+      "title": "Aghadowey Preschool Playgroup",
+      "date": "2026-11-21",
+      "startTime": "19:30",
+      "endTime": "20:30",
+      "location": "Garvagh",
+      "route": "Ardreagh Road,Ballygawley Road,Moneycarrie Road,Coleraine Road,Bridge Street,Station Road,Carrowreagh Road,Cullyrammer Road,Mullaghinch Road,Ardreagh Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96730",
+      "coordinates": {
+        "latitude": 54.982536,
+        "longitude": -6.6877148,
+        "label": "Garvagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96627",
+      "title": "Causeway Coast & Glens Borough Council",
+      "date": "2026-11-21",
+      "startTime": "16:50",
+      "endTime": "18:00",
+      "location": "Limavady",
+      "route": "Limavady High School,Irish Green Street,Rathbrady Road,Roemill Road,Catherine Street,Linenhall Street,Main Street,Connell Street,Irish Green Street,Limavady High School",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96627",
+      "coordinates": {
+        "latitude": 55.0504857,
+        "longitude": -6.9505134,
+        "label": "Limavady"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96446",
+      "title": "Mid and East Antrim Council",
+      "date": "2026-11-21",
+      "startTime": "16:45",
+      "endTime": "17:15",
+      "location": "Carrickfergus",
+      "route": "Antrim Street,High Street,Market Place,West Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96446",
+      "coordinates": {
+        "latitude": 54.7136165,
+        "longitude": -5.8073112,
+        "label": "Carrickfergus"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96522",
+      "title": "Ards and North Down Borough Council",
+      "date": "2026-11-21",
+      "startTime": "17:50",
+      "endTime": "18:00",
+      "location": "Bangor",
+      "route": "Hamilton Road,Savoy Roundabout,Donaghadee Road,Lower High Street,Quay Street",
+      "returnRoute": "Quay Street,Lower High Street,Mill Road,Hamilton Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96522",
+      "coordinates": {
+        "latitude": 54.662595,
+        "longitude": -5.6679127,
+        "label": "Bangor"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96599",
+      "title": "Eire Nua Republican Flute Band",
+      "date": "2026-11-22",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Newbarnsley Cresent,Newbarnsley Park,Springfield Road,New Barnsley Drive,Springfield Road,Divismore Way,Glenalina Road,Whiterock Road,Sprinfgield Road,Norglen Parade,Norglen Drive,Norfolk Road,Norfolk Gardens,Norfolk Parade,Norbury Street,Divis Drive,Falls Road,Felons Club",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96599",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96535",
+      "title": "Caremark",
+      "date": "2026-11-22",
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "location": "Holywood",
+      "route": "Helens Bay Beach Car Park,North Down Coastal Path,Station Road Holywood,North Down Coastal Path,Seafront Road Holywood,North Down Coastal Path,The Esplanade Holywood",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96535",
+      "coordinates": {
+        "latitude": 54.6404494,
+        "longitude": -5.8361723,
+        "label": "Holywood"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96492",
+      "title": "sean mcalonan memorial truck run",
+      "date": "2026-11-22",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "location": "Ballycastle",
+      "route": "Hillside Road Ballycastle,Coleraine Road Ballycastle,Castle Street Ballycastle,Ann Street Ballycastle,Quay Road Ballycastle,North Street Ballycastle,Clare Road Ballycastle,Moyle Road Ballycastle,Market Street Ballycastle,Ramoan Road Ballycastle,Church Road Ballycastle,Moyarget Road Ballycastle,Magheramore Road,Hillside Road A44,Glenshesk Road B12,Mary Street Ballycastle,Quay Road Ballycastle,Ann Street Ballycastle,Castle Street Ballycastle,Coleraine Road Ballycastle,Hillside Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96492",
+      "coordinates": {
+        "latitude": 55.2006882,
+        "longitude": -6.250282,
+        "label": "Ballycastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96595",
+      "title": "Portglenone Enterprise Group Ltd",
+      "date": "2026-11-25",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Portglenone",
+      "route": "Main Street Portglenone",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96595",
+      "coordinates": {
+        "latitude": 54.8733857,
+        "longitude": -6.4751493,
+        "label": "Portglenone"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96560",
+      "title": "Inner Wheel Club of Omagh",
+      "date": "2026-11-25",
+      "startTime": "13:00",
+      "endTime": "14:30",
+      "location": "Omagh",
+      "route": "(Walk 1) Gortin Road,Mountjoy Road,Sedan Avenue,SAC Townhall Square,(Walk 2) Gortin Road,Mountjoy Road,Sedan Avenue,River Walk to SAC Townhall Square,(Walk 3) Gortin Road,Mountjoy Road,Sedan Avenue,Castle Street,Church Street,John Street,Top of High St via front of courthouse,SAC Townhall Square,(Walk 4) Gortin Road,Mountjoy Road,Left at the Memorial Garden,Past duck pond and bowling green,Campsie Road,Market Street,High Street,SAC Townhall Square",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96560",
+      "coordinates": {
+        "latitude": 54.5992486,
+        "longitude": -7.3029907,
+        "label": "Omagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96571",
+      "title": "Loughgall & District Improvement Association",
+      "date": "2026-11-26",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": "Loughgall",
+      "route": "St Luke's Church Car Park,Loughgall Main Street,Old Road,B77,Loughgall Main Street,St Luke's Church Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96571",
+      "coordinates": {
+        "latitude": 54.4080941,
+        "longitude": -6.6074725,
+        "label": "Loughgall"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96724",
+      "title": "Richhill Improvements Association",
+      "date": "2026-11-26",
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "location": "Richhill",
+      "route": "Hub Car Park,Main Street,New Line,Recreation Centre",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96724",
+      "coordinates": {
+        "latitude": 54.3710151,
+        "longitude": -6.5487914,
+        "label": "Richhill"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96629",
+      "title": "Causeway Coast & Glens Borough Council",
+      "date": "2026-11-26",
+      "startTime": "18:50",
+      "endTime": "20:00",
+      "location": "Ballycastle",
+      "route": "Station Road,Ann Street,The Diamond,Market Street,Clare Street,Castle Street,The Diamond,Ann Street,Station Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96629",
+      "coordinates": {
+        "latitude": 55.2006882,
+        "longitude": -6.250282,
+        "label": "Ballycastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96634",
+      "title": "Causeway Coast & Glens Borough Council",
+      "date": "2026-11-27",
+      "startTime": "18:50",
+      "endTime": "20:00",
+      "location": "Coleraine",
+      "route": "Coleraine Leisure Centre,Railway Road,Mill Street,Long Commons,Kingsgate Street,Church Street,The Diamond,Queen Street,Turn on Circular Road,Queen Street,The Diamond,Church Street,Kingsgate Street,Long Commons,Mills Street,Railway Road,Coleraine Leisure Centre",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96634",
+      "coordinates": {
+        "latitude": 55.1315912,
+        "longitude": -6.671861,
+        "label": "Coleraine"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96587",
+      "title": "Grange GAA",
+      "date": "2026-11-28",
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "location": "Armagh",
+      "route": "Ballygassoon Road",
+      "returnRoute": "Ballygassoon Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96587",
+      "coordinates": {
+        "latitude": 54.3481977,
+        "longitude": -6.6540432,
+        "label": "Armagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96248",
+      "title": "Mid Ulster District Council",
+      "date": "2026-11-28",
+      "startTime": "18:30",
+      "endTime": "19:30",
+      "location": "Dungannon",
+      "route": "Scotch Street,George Street,William Street,Irish Street,Market Square",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96248",
+      "coordinates": {
+        "latitude": 54.5039088,
+        "longitude": -6.7703622,
+        "label": "Dungannon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96528",
+      "title": "Donaghey primary school",
+      "date": "2026-11-28",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Cookstown",
+      "route": "Killygarvin Road,Downs Road,Lindesayville Road,Tullywiggan Road,Loughry Roundabout,Dungannon Road,Killymoon Street,Church Street,Chapel Street,Loy Street,James Street,Oldtown Street,Oldtown Roundabout,William Street,Loughry Roundabout,Sandholes Road,Tullylagan Road,Dungannon Road,Killygarvin Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96528",
+      "coordinates": {
+        "latitude": 54.6436734,
+        "longitude": -6.7416008,
+        "label": "Cookstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96495",
+      "title": "Broughshane & District Community Association Ltd",
+      "date": "2026-11-28",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "location": "Broughshane",
+      "route": "Main Street Broughshane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96495",
+      "coordinates": {
+        "latitude": 54.8936924,
+        "longitude": -6.2037804,
+        "label": "Broughshane"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96507",
+      "title": "Reclaim the Agenda",
+      "date": "2026-11-28",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": "Belfast",
+      "route": "Donegall Street,Royal Avenue,Donegall Square North,Chichester Street,Victoria Street,Ulster Street,Custom House Square",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96507",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96742",
+      "title": "Kilrea community & Fairy Thorn Association",
+      "date": "2026-11-28",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "location": "Kilrea",
+      "route": "Fairhill Kilrea,Maghera Street,The Diamond,Maghera Street,New Row,Marian Hall",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96742",
+      "coordinates": {
+        "latitude": 54.950167,
+        "longitude": -6.5564648,
+        "label": "Kilrea"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96568",
+      "title": "Crows Nest Community Playgroup",
+      "date": "2026-11-28",
+      "startTime": "18:30",
+      "endTime": "21:00",
+      "location": "Ballymoney",
+      "route": "Route Complex,Coleraine Road,Semicock Road,Portrush Road,High Street,Main Street,Meeting House Street,Ballymena Road,Garryduff Road,Lislagan Road,Finvoy Road,Bann Road,Bendorlagh Crossroads,Taughey Road,Mullin Road,Colerane Road,Route Complex",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96568",
+      "coordinates": {
+        "latitude": 55.0702727,
+        "longitude": -6.5172758,
+        "label": "Ballymoney"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96738",
+      "title": "Urban Events NI",
+      "date": "2026-11-28",
+      "startTime": "17:00",
+      "endTime": "18:00",
+      "location": "Newtownards",
+      "route": "Ards Blair Mayne Wellbeing and Leisure Complex,Castlereagh Street,Court Street,Old Cross Street,High Street,Mill Street,John Street Lane,John Street,Castlereagh Street,Ards Blair Mayne Wellbeing and Leisure Complex",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96738",
+      "coordinates": {
+        "latitude": 54.5933779,
+        "longitude": -5.6960935,
+        "label": "Newtownards"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96566",
+      "title": "Irvinestown Trustee Enterprise Company Ltd",
+      "date": "2026-11-28",
+      "startTime": "16:45",
+      "endTime": "16:40",
+      "location": "Irvinestown",
+      "route": "Church Street Irvinestown,Main Street Irvinestown",
+      "returnRoute": "Main Street Irvinestown,Pound Street Irvinestown,Main Street Irvinestown,Church Street Irvinestown",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96566",
+      "coordinates": {
+        "latitude": 54.4720106,
+        "longitude": -7.6334809,
+        "label": "Irvinestown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96516",
+      "title": "Ballynahinch Community Association",
+      "date": "2026-11-28",
+      "startTime": "17:00",
+      "endTime": "19:30",
+      "location": "Ballynahinch",
+      "route": "Lisburn Street Ballynahinch,Main Street Ballynahinch,Harmony Way Ballynhinch,Dromore Street Ballynahinch,Grove Road Ballynahinch,Spa Road Spa,Ballymacarn Road Spa,Dunmore Road Spa,Spa Road Spa,Church Road Ballynahinch,High Street Ballynahinch,Lisburn Street Ballynahinch",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96516",
+      "coordinates": {
+        "latitude": 54.4026038,
+        "longitude": -5.8960151,
+        "label": "Ballynahinch"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96726",
+      "title": "Ballynure Primary School",
+      "date": "2026-11-28",
+      "startTime": "19:00",
+      "endTime": "19:00",
+      "location": "Ballynure",
+      "route": "Main Street Ballynure,B58 Belfast Road Ballynure,Lismenary Road Ballynure,Lower Ballyboley Road Ballyclare,Ballyeaston Road Ballyclare,Rashes Road Ballyclare,The Square Ballyclare,Main Street Ballyclare,Ballynure Road Ballyclare,Green Road Ballyclare,Calhame Road Ballyclare,Main Street  Straid,Seskin Road Straid,Ballylagan Road Straid,Carrickfergus Road,Ballynure,Main Street  Ballynure",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96726",
+      "coordinates": {
+        "latitude": 54.7724456,
+        "longitude": -5.951582,
+        "label": "Ballynure"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96731",
+      "title": "Rise for Palestine",
+      "date": "2026-11-29",
+      "startTime": "15:00",
+      "endTime": "16:30",
+      "location": "Derry",
+      "route": "The Diamond,Shipway Street,Guildhall Square",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96731",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96723",
+      "title": "Royal British Legion City of Armagh",
+      "date": "2026-11-29",
+      "startTime": "14:30",
+      "endTime": "15:15",
+      "location": "Armagh",
+      "route": "Dobbin Street,Dobbin Street Junction,Barrack Street,The Mall West,The Cenotaph,Service at Cenotaph,Mall Presbyterian Church for service",
+      "returnRoute": "The Mall Presbyterian Church,The Mall West,Barrack Street,Dobbin Street Junction,Dobbin Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96723",
+      "coordinates": {
+        "latitude": 54.3481977,
+        "longitude": -6.6540432,
+        "label": "Armagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96733",
+      "title": "Donaghmore District Community Association",
+      "date": "2026-11-29",
+      "startTime": "17:00",
+      "endTime": "17:30",
+      "location": "Donaghmore / Castlecaulfield",
+      "route": "Hillview Avenue Donaghmore,Main Street Donaghmore",
+      "returnRoute": "Main Street Donaghmore,Hillview Avenue Donaghmore",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96733",
+      "coordinates": {
+        "latitude": 54.5090419,
+        "longitude": -6.8574824,
+        "label": "Donaghmore"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96740",
+      "title": "Bessbrook Development Company Ltd",
+      "date": "2026-12-03",
+      "startTime": "17:15",
+      "endTime": "17:30",
+      "location": "Bessbrook",
+      "route": "College Square  Bessbrook,Main Street,College Square",
+      "returnRoute": "Charlemont Square,Main Street,College Square",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96740",
+      "coordinates": {
+        "latitude": 54.1941791,
+        "longitude": -6.3965548,
+        "label": "Bessbrook"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96670",
+      "title": "Groomsport Village Association",
+      "date": "2026-12-04",
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "location": "Groomsport",
+      "route": "Donaghadee Road,Groomsport Parish Church,Groomsport Presbyterian Church - Main Street Groomsport",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96670",
+      "coordinates": {
+        "latitude": 54.6748519,
+        "longitude": -5.6180066,
+        "label": "Groomsport"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96605",
+      "title": "Ederney Santa Visit",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "location": "Enniskillen",
+      "route": "Ardvarney Road Ederney",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96605",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96707",
+      "title": "Ardstraw Presbyterian Church",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": "19:15",
+      "location": "Ardstraw",
+      "route": "Abbey Villas Ardstraw,Sunnyside Coolaghy Road, Ardstraw",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96707",
+      "coordinates": {
+        "latitude": 54.7326692,
+        "longitude": -7.4574695,
+        "label": "Ardstraw"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96745",
+      "title": "ABOD South Belfast Branch",
+      "date": "2026-12-05",
+      "startTime": "07:30",
+      "endTime": "08:45",
+      "location": "Belfast",
+      "route": "Barrington Gardens,Donegall Road,Tierney Gardens,Eureka Drive,Felt Street,Blythe Street,Sandy Row,Boyne Bridge,Glengall Street",
+      "returnRoute": "Glengall Street,Boyne Bridge,Sandy Row,Blythe Street,Felt Street,Eureka Drive,Tierney Gardens,Donegall Road,Barrington Gardens",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96745",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96737",
+      "title": "ABOD",
+      "date": "2026-12-05",
+      "startTime": "08:00",
+      "endTime": "09:00",
+      "location": "Belfast",
+      "route": "Clifton Street Orange Hall,Clifton Street,Donegal Street,York Street",
+      "returnRoute": "",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96737",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96547",
+      "title": "Wandsworth Community Association",
+      "date": "2026-12-05",
+      "startTime": "17:15",
+      "endTime": "18:30",
+      "location": "East Belfast",
+      "route": "CS Lewis Square,Holywood Road,Belmont Road,Dundela Avenue,North Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96547",
+      "coordinates": {
+        "latitude": 54.5968341,
+        "longitude": -5.9365844,
+        "label": "Royal Belfast Academical Institution"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96434",
+      "title": "**##The Rossi Light Up The Night Tractor & Truck Run##**",
+      "date": "2026-12-05",
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "location": "Rostrevor",
+      "route": "Bridge Street Rostrevor,Rostrevor Road,Warrenpoint Road,Church Street  Warrenpoint,Duke Street,Upper Dromore Road,Milltown Street    Burren,Bridge Road,Chapel Hill       Maybridge,Bavan Road,Drumlough Road,Newry Street       Rathfriland,Downpatrick Street,Castlewellan Road,Hilltown Road,Main Street Hilltown,Rostrevor Road Hilltown,Kilbroney Road,Rostrevor Village",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96434",
+      "coordinates": {
+        "latitude": 54.100725,
+        "longitude": -6.2004264,
+        "label": "Rostrevor"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96326",
+      "title": "##**Saintfield Christmas Charity Ride",
+      "date": "2026-12-05",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Saintfield",
+      "route": "Leaving Mary Mother of the Church,Gossgai Road,Left toward Saintfield,Right into Station Road,Left into Ballyaghaty  Road,Carson Town Road,Station Road,Main Street (towards Ballynahinch),Rurn around Fairview terrace,Main Street,Gossgai Road,Mary Mother of the Church",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96326",
+      "coordinates": {
+        "latitude": 54.4603955,
+        "longitude": -5.8325813,
+        "label": "Saintfield"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96573",
+      "title": "Hare's Corner Cooperative",
+      "date": "2026-12-07",
+      "startTime": "19:00",
+      "endTime": "19:30",
+      "location": "Garvagh",
+      "route": "Kilrea Road Garvagh,Main Street Garvagh,Former Garvagh High School Site grounds",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96573",
+      "coordinates": {
+        "latitude": 54.982536,
+        "longitude": -6.6877148,
+        "label": "Garvagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96692",
+      "title": "Ballymena Runners",
+      "date": "2026-12-10",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Ballymena",
+      "route": "Ballymoney Street,Church Street,Mill Street,Wellington Street,Ballymoney Street,Fairhill Shopping Centre",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96692",
+      "coordinates": {
+        "latitude": 54.8662966,
+        "longitude": -6.2760159,
+        "label": "Ballymena"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96713",
+      "title": "Kirkinriola Primary School PTA",
+      "date": "2026-12-12",
+      "startTime": "19:00",
+      "endTime": "21:00",
+      "location": "Ballymena",
+      "route": "Woodside Road,Raceview Road,Broughshane Road,Frys Road,Cushendall Road,Bally Road,Clougher Road,Cushendall Road,Pillar Brae Road,Quarrytown Road,Knockan Road,Raceview Road,Woodside Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96713",
+      "coordinates": {
+        "latitude": 54.8662966,
+        "longitude": -6.2760159,
+        "label": "Ballymena"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96694",
+      "title": "Magical Christmas tractor run",
+      "date": "2026-12-13",
+      "startTime": "17:30",
+      "endTime": "21:00",
+      "location": "Coagh",
+      "route": "Ballinderry B160,Ballyronan B160,Fair Hill,King Street,Church Street,Broad Street,Moneymore Road,A29,Old town Street,James’s Street,Chapel Street,Fountain Road,Coagh Road,Littlebridge Road,Ballinderry",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96694",
+      "coordinates": {
+        "latitude": 54.6478693,
+        "longitude": -6.6184389,
+        "label": "Coagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96676",
+      "title": "Lurgan District LOL No 6",
+      "date": "2026-12-13",
+      "startTime": "14:30",
+      "endTime": "15:00",
+      "location": "Lurgan",
+      "route": "Brownlow House,Windsor Avenue,High Street,Queen Street,Queen Street Methodist Church",
+      "returnRoute": "Queen Street Methodist Church,Queen Street,High Street,Windsor Avenue,Brownlow House",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96676",
+      "coordinates": {
+        "latitude": 54.460824,
+        "longitude": -6.3292491,
+        "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96687",
+      "title": "Larne Rugby Football Club",
+      "date": "2026-12-18",
+      "startTime": "19:00",
+      "endTime": "19:00",
+      "location": "Larne",
+      "route": "Main Road Glynn,Shore Road Glynn,Rectory Road Larne,Waterfall Road Larne,Crosshill Road Larne,Raloo Road Larne,Browndod Road Larne,Belfast Road Larne A8,Circular Road Larne,Quay Street Larne,Main Street Larne,High Street Larne,Glynn Road Larne,Bank Roa, Larne,Main Road Glynn",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96687",
+      "coordinates": {
+        "latitude": 54.8508458,
+        "longitude": -5.8183116,
+        "label": "Larne"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96534",
+      "title": "Fermanagh Scouts/ScoutsNI",
+      "date": "2026-12-19",
+      "startTime": "16:20",
+      "endTime": "16:30",
+      "location": "Enniskillen",
+      "route": "St Michael's Church - Darling Street Enniskillen,St Macartan's Cathedral - Church Street Enniskillen",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96534",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96620",
+      "title": "Fermanah Harriers Hunt Club",
+      "date": "2026-12-26",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "location": "Enniskillen",
+      "route": "Derrycharra Link Road Enniskillen,Wellington Road,Belmore Street,Eastbridge Street,Townhall Street,Church Street,Darling Street,Anne Street/West Bridge,The Brook,Shore Road,Lands at Magheradunbar - Shore Road Enniskillen",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96620",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96432",
+      "title": "Sports Academy George/North Coast Leisure",
+      "date": "2026-12-28",
+      "startTime": "10:15",
+      "endTime": "11:00",
+      "location": "Portrush",
+      "route": "East Strand Beach Portrush,Royal Court Hotel,Royal Portrush Golf Club,Causeway Street Watersports Centre.,Ramore Head,Ramore Head,Portrush Promenade,East Strand Beach Portrush",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96432",
+      "coordinates": {
+        "latitude": 55.2045078,
+        "longitude": -6.6528595,
+        "label": "Portrush"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96479",
+      "title": "Livingstone Family",
+      "date": "2027-01-02",
+      "startTime": "12:00",
+      "endTime": "17:00",
+      "location": "Armagh",
+      "route": "ABP Business Park,Hamilstonsbawn Road A51,Stockinghams Hill,Edenavey's Road,Markethill Road,Mullaghbrack Road,Hamiltonbawn,At staggered crossroads (turn right and immediately left onto Annaragh Road),Richhill,Newline Road,Irish Street,Main Street,Corcreevy Road,A3 Portadown Road towards Armagh,At Roadabout turn left onto Drumadd Road,Victoria Street,Barrick Hill,ABP on the Hamiltonsbawn Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96479",
+      "coordinates": {
+        "latitude": 54.3481977,
+        "longitude": -6.6540432,
+        "label": "Armagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96631",
+      "title": "Star of the North LOL 1053",
+      "date": "2027-01-09",
+      "startTime": "15:30",
+      "endTime": "16:30",
+      "location": "Belfast",
+      "route": "Sinclair Street,Sandown Road,Upper Newtownards Raod,Earlswood Road,Kincora Avenue,Eastleigh Drive,Upper Newtownards Road,North Road,Kirkliston Park,Kirkliston Gardens,Holland Crescent,Enid Parade,Enid Drive,Holland Drive,Upper Newtownards Road,Sandown Road,Sinclair Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96631",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96463",
+      "title": "Belfast City Council",
+      "date": "2027-03-17",
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Chichester Street,Victoria Street,High Street,Castle Place,Donegall Place",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96463",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=93798",
+      "title": "National Graves Association Belfast",
+      "date": "2027-03-28",
+      "startTime": "13:30",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Beechmount Avenue,Falls Road,Milltown Cemetery",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=93798",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=93786",
+      "title": "Eire Nua Republican Flute Band",
+      "date": "2027-03-28",
+      "startTime": "11:30",
+      "endTime": "13:30",
+      "location": "Belfast",
+      "route": "Newbarnsley Crescent,Newbarnsley Park,Newbarnsley Parade,Whiterock Road,O’Donnell GAA,Falls Road,Beechmount Avenue",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=93786",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96690",
+      "title": "West Wellbeing Suicide Prevention",
+      "date": "2027-04-04",
+      "startTime": "06:00",
+      "endTime": "07:00",
+      "location": "Belfast",
+      "route": "564-568 Falls Road,Andersonstown Road,Stewartstown Road BT11,Stewartstown Road BT17",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96690",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96548",
+      "title": "PH Pearse 1916 Society Galbally/Cappagh",
+      "date": "2027-05-09",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Galbally",
+      "route": "Lurgylea Road,Cappagh Road,Main Street Cappagh",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96548",
+      "coordinates": {
+        "latitude": 54.533333,
+        "longitude": -6.883333,
+        "label": "Galbally"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96445",
+      "title": "Carrickfergus & District Senior Gateway Club",
+      "date": "2027-06-19",
+      "startTime": "12:00",
+      "endTime": "13:00",
+      "location": "Carrickfergus",
+      "route": "Taylors Avenue,Scotch Quarter,Marine Highway (Larne Road),Castle Carpark",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96445",
+      "coordinates": {
+        "latitude": 54.7136165,
+        "longitude": -5.8073112,
+        "label": "Carrickfergus"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96483",
+      "title": "Threshold Sports",
+      "date": "2027-06-19",
+      "startTime": "06:15",
+      "endTime": "22:00",
+      "location": "Ballintoy",
+      "route": "Larrybane Quarry Ballintoy,Harbour Road,Whitepark Road,Portbradden Road,Dunseverick Road (off road coastal path),Ballaghmore Road,Dunluce Road,Main Street Bushmills,Dunluce Road (off road),Sand Dune Terrace,Causeway Street (off road),Dunluce Avenue,Crocknamack Road,Portstewart Road (off road),Blackrock Road,Portstewart Road (off road),Kinora Terrace Portstewart,Atlantic Circle,The Promenade,Coleraine Road,Portstewart Road,Ulster University Coleraine",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96483",
+      "coordinates": {
+        "latitude": 55.2367811,
+        "longitude": -6.3593257,
+        "label": "Ballintoy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96484",
+      "title": "Threshold Sports",
+      "date": "2027-06-20",
+      "startTime": "07:15",
+      "endTime": "22:00",
+      "location": "Ballintoy",
+      "route": "Larrybane Quarry Ballintoy,Harbour Road,Whitepark Road,Portbradden Road,Dunseverick Road (off road coastal path),Ballaghmore Road,Dunluce Road,Main Street Bushmills,Dunluce Road (off road),Sand Dune Terrace,Causeway Street (off road),Dunluce Avenue,Crocknamack Road,Portstewart Road (off road),Blackrock Road,Portstewart Road (off road),Kinora Terrace Portstewart,Atlantic Circle,The Promenade,Coleraine Road,Portstewart Road,Ulster University Coleraine",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96484",
+      "coordinates": {
+        "latitude": 55.2367811,
+        "longitude": -6.3593257,
+        "label": "Ballintoy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96384",
+      "title": "Pride Of The Park Flute Band",
+      "date": "2027-06-25",
+      "startTime": "20:30",
+      "endTime": "22:00",
+      "location": "Armoy",
+      "route": "Deane Park,Carrowreagh Road,New Street,Main Street,Church Road,Gracehill Road,A44 Drones Road,Market Street,Main Street,Carrowreagh Road,Deane Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96384",
+      "coordinates": {
+        "latitude": 55.1313382,
+        "longitude": -6.326702,
+        "label": "Armoy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=95912",
+      "title": "Mid & East Antrim Pride",
+      "date": "2027-06-26",
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "location": "Ballymena",
+      "route": "People’s Park,Thomas Street,Fairhill Roundabout,Parkway,North Road,Galgorm Road,Lower Mill Street,Wellington Street,Church Street,Castle Street,Trostan Avenue,Demesne Avenue,A26,St Patrick’s Link Road,Ballymena Showgrounds",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=95912",
+      "coordinates": {
+        "latitude": 54.8662966,
+        "longitude": -6.2760159,
+        "label": "Ballymena"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=95934",
+      "title": "Team NI",
+      "date": "2027-07-01",
+      "startTime": "11:00",
+      "endTime": "13:00",
+      "location": "Carrickfergus",
+      "route": "Carrickfergus War Memorial,Marine Highway,Davys Street,Ellis Street,Woodburn Road,Knockagh Road,Monument Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=95934",
+      "coordinates": {
+        "latitude": 54.7136165,
+        "longitude": -5.8073112,
+        "label": "Carrickfergus"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96415",
+      "title": "FERNISKEY LOL 115",
+      "date": "2027-07-11",
+      "startTime": "10:45",
+      "endTime": "12:00",
+      "location": "Kells",
+      "route": "Ferniskey Orange Hall,Ferniskey Road,Meet accompanying bands/ lodges,Parade moves off from Kells main street at 11:30,Kells Main Street,Church Road,Main Street Connor- stop at War Memorial,St Saviours Church of Ireland",
+      "returnRoute": "St. Saviours Church,Main Street Connor,Turning at junction of parkgate/ Carncombe Road,Main Street Connor,Church Road,Main street Kells,Ferniskey Road,Ferniskey Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96415",
+      "coordinates": {
+        "latitude": 54.8084156,
+        "longitude": -6.2204439,
+        "label": "Kells"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96386",
+      "title": "Pride Of The Park Flute Band",
+      "date": "2027-07-12",
+      "startTime": "10:30",
+      "endTime": "11:15",
+      "location": "Armoy",
+      "route": "Carrowreagh Road,Main Street,Drones Road,Gracehill Road,Primary School",
+      "returnRoute": "Primary School,Gracehill Road,Drones Road,Main Street,Carrowreagh Road,Orange Hall",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96386",
+      "coordinates": {
+        "latitude": 55.1313382,
+        "longitude": -6.326702,
+        "label": "Armoy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96473",
+      "title": "Skeogh LOL 861",
+      "date": "2027-07-12",
+      "startTime": "08:45",
+      "endTime": "10:00",
+      "location": "Dromore",
+      "route": "Skeogh Orange Hall,Diamond Road - Dromore,Junction with Skeagh Road,(Disperse and reassemble at McGrehan's Carpark),Meeting Street (calling in at Mountvale PNH),Bridge Street (against traffic),Market Square,Princes Street,Hillsborough Road (turn at Orange Hall),Princes Street,Market Square,Church Street,Banbridge Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96473",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    }
+  ]
+}

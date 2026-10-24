@@ -1,0 +1,712 @@
+{
+  "Aghadowey": {
+    "latitude": 55.0303323,
+    "longitude": -6.6629706,
+    "label": "Aghadowey River"
+  },
+  "Annaghmore": {
+    "latitude": 54.5279599,
+    "longitude": -6.668787,
+    "label": "Annaghmore"
+  },
+  "Annalong": {
+    "latitude": 54.1075749,
+    "longitude": -5.8972213,
+    "label": "Annalong"
+  },
+  "Antrim": {
+    "latitude": 54.715139,
+    "longitude": -6.2192038,
+    "label": "Antrim"
+  },
+  "Ards Peninsula": {
+    "latitude": 54.5019733,
+    "longitude": -5.6485503,
+    "label": "Ards and North Down District"
+  },
+  "Ardstraw": {
+    "latitude": 54.7326692,
+    "longitude": -7.4574695,
+    "label": "Ardstraw"
+  },
+  "Armagh": {
+    "latitude": 54.3481977,
+    "longitude": -6.6540432,
+    "label": "Armagh"
+  },
+  "Armoy": {
+    "latitude": 55.1313382,
+    "longitude": -6.326702,
+    "label": "Armoy"
+  },
+  "Arney": {
+    "latitude": 54.2915763,
+    "longitude": -7.6785269,
+    "label": "Arney"
+  },
+  "Ballinamallard": {
+    "latitude": 54.4228702,
+    "longitude": -7.5950403,
+    "label": "Ballinamallard"
+  },
+  "Ballintoy": {
+    "latitude": 55.2367811,
+    "longitude": -6.3593257,
+    "label": "Ballintoy"
+  },
+  "Ballycastle": {
+    "latitude": 55.2006882,
+    "longitude": -6.250282,
+    "label": "Ballycastle"
+  },
+  "Ballyclare": {
+    "latitude": 54.7525296,
+    "longitude": -6.0010911,
+    "label": "Ballyclare"
+  },
+  "Ballygawley": {
+    "latitude": 54.4623431,
+    "longitude": -7.028868,
+    "label": "Ballygawley"
+  },
+  "Ballygowan": {
+    "latitude": 54.5018813,
+    "longitude": -5.7918013,
+    "label": "Ballygowan"
+  },
+  "Ballyhalbert": {
+    "latitude": 54.4948453,
+    "longitude": -5.4605996,
+    "label": "Ballyhalbert"
+  },
+  "Ballykelly": {
+    "latitude": 55.044791,
+    "longitude": -7.0166599,
+    "label": "Ballykelly"
+  },
+  "Ballymena": {
+    "latitude": 54.8662966,
+    "longitude": -6.2760159,
+    "label": "Ballymena"
+  },
+  "Ballymoney": {
+    "latitude": 55.0702727,
+    "longitude": -6.5172758,
+    "label": "Ballymoney"
+  },
+  "Ballynahinch": {
+    "latitude": 54.4026038,
+    "longitude": -5.8960151,
+    "label": "Ballynahinch"
+  },
+  "Ballynure": {
+    "latitude": 54.7724456,
+    "longitude": -5.951582,
+    "label": "Ballynure"
+  },
+  "Ballywalter": {
+    "latitude": 54.5439048,
+    "longitude": -5.4867684,
+    "label": "Ballywalter"
+  },
+  "Banbridge": {
+    "latitude": 54.3514168,
+    "longitude": -6.2714623,
+    "label": "Banbridge"
+  },
+  "Bangor": {
+    "latitude": 54.662595,
+    "longitude": -5.6679127,
+    "label": "Bangor"
+  },
+  "Belfast": {
+    "latitude": 54.596391,
+    "longitude": -5.9301829,
+    "label": "Belfast"
+  },
+  "Beragh": {
+    "latitude": 54.5508274,
+    "longitude": -7.1589712,
+    "label": "Beragh"
+  },
+  "Bessbrook": {
+    "latitude": 54.1941791,
+    "longitude": -6.3965548,
+    "label": "Bessbrook"
+  },
+  "Brookeborough": {
+    "latitude": 54.3151816,
+    "longitude": -7.4066823,
+    "label": "Brookeborough"
+  },
+  "Broughshane": {
+    "latitude": 54.8936924,
+    "longitude": -6.2037804,
+    "label": "Broughshane"
+  },
+  "Burnfoot": {
+    "latitude": 54.9650381,
+    "longitude": -6.938965,
+    "label": "Burnfoot"
+  },
+  "Bushmills": {
+    "latitude": 55.2059909,
+    "longitude": -6.5234165,
+    "label": "Bushmills"
+  },
+  "Caledon": {
+    "latitude": 54.3509691,
+    "longitude": -6.8377547,
+    "label": "Caledon"
+  },
+  "Carrickfergus": {
+    "latitude": 54.7136165,
+    "longitude": -5.8073112,
+    "label": "Carrickfergus"
+  },
+  "Castledawson": {
+    "latitude": 54.7769235,
+    "longitude": -6.5576806,
+    "label": "Castledawson"
+  },
+  "Castlederg": {
+    "latitude": 54.7087956,
+    "longitude": -7.593125,
+    "label": "Castlederg"
+  },
+  "Castlereagh": {
+    "latitude": 54.5763441,
+    "longitude": -5.8812117,
+    "label": "Castlereagh"
+  },
+  "Castlerock": {
+    "latitude": 55.16482,
+    "longitude": -6.7884142,
+    "label": "Castlerock"
+  },
+  "Castlewellan": {
+    "latitude": 54.2574364,
+    "longitude": -5.9435178,
+    "label": "Castlewellan"
+  },
+  "Co Fermanagh": {
+    "latitude": 54.3618747,
+    "longitude": -7.6567106,
+    "label": "County Fermanagh"
+  },
+  "Coa": {
+    "latitude": 54.402479,
+    "longitude": -7.5627079,
+    "label": "Coa"
+  },
+  "Coagh": {
+    "latitude": 54.6478693,
+    "longitude": -6.6184389,
+    "label": "Coagh"
+  },
+  "Coalisland": {
+    "latitude": 54.5394657,
+    "longitude": -6.7004879,
+    "label": "Coalisland"
+  },
+  "Colebrooke": {
+    "latitude": 54.3233428,
+    "longitude": -7.4227494,
+    "label": "Colebrooke"
+  },
+  "Coleraine": {
+    "latitude": 55.1315912,
+    "longitude": -6.671861,
+    "label": "Coleraine"
+  },
+  "Comber": {
+    "latitude": 54.5498342,
+    "longitude": -5.7454313,
+    "label": "Comber"
+  },
+  "Cookstown": {
+    "latitude": 54.6436734,
+    "longitude": -6.7416008,
+    "label": "Cookstown"
+  },
+  "Craigavon": {
+    "latitude": 54.4507201,
+    "longitude": -6.3921622,
+    "label": "Craigavon"
+  },
+  "Crumlin": {
+    "latitude": 54.6206167,
+    "longitude": -6.2149351,
+    "label": "Crumlin"
+  },
+  "Cullybackey": {
+    "latitude": 54.8889956,
+    "longitude": -6.356308,
+    "label": "Cullybackey"
+  },
+  "Cushendall": {
+    "latitude": 55.080819,
+    "longitude": -6.0640644,
+    "label": "Cushendall"
+  },
+  "Cushendun": {
+    "latitude": 55.1252468,
+    "longitude": -6.0423483,
+    "label": "Cushendun"
+  },
+  "Derry": {
+    "latitude": 54.9978678,
+    "longitude": -7.3213056,
+    "label": "Derry/Londonderry"
+  },
+  "Derry-Londonderry": {
+    "latitude": 54.9978678,
+    "longitude": -7.3213056,
+    "label": "Derry/Londonderry"
+  },
+  "Dervock": {
+    "latitude": 55.1233432,
+    "longitude": -6.4684721,
+    "label": "Dervock"
+  },
+  "Donaghadee": {
+    "latitude": 54.6425446,
+    "longitude": -5.5375794,
+    "label": "Donaghadee"
+  },
+  "Donaghcloney": {
+    "latitude": 54.420105,
+    "longitude": -6.2603363,
+    "label": "Donaghcloney"
+  },
+  "Donaghmore / Castlecaulfield": {
+    "latitude": 54.5090419,
+    "longitude": -6.8574824,
+    "label": "Donaghmore"
+  },
+  "Downpatrick": {
+    "latitude": 54.3279335,
+    "longitude": -5.71649,
+    "label": "Downpatrick"
+  },
+  "Draperstown": {
+    "latitude": 54.79358,
+    "longitude": -6.7842045,
+    "label": "Draperstown"
+  },
+  "Dromore": {
+    "latitude": 54.5128552,
+    "longitude": -7.4576175,
+    "label": "Dromore"
+  },
+  "Dunaghy": {
+    "latitude": 55.0721513,
+    "longitude": -6.4716715,
+    "label": "Dunaghy"
+  },
+  "Dungannon": {
+    "latitude": 54.5039088,
+    "longitude": -6.7703622,
+    "label": "Dungannon"
+  },
+  "Dunloy": {
+    "latitude": 55.0111673,
+    "longitude": -6.4111633,
+    "label": "Dunloy"
+  },
+  "East Belfast": {
+    "latitude": 54.5968341,
+    "longitude": -5.9365844,
+    "label": "Royal Belfast Academical Institution"
+  },
+  "Enniskillen": {
+    "latitude": 54.3448171,
+    "longitude": -7.638907,
+    "label": "Enniskillen"
+  },
+  "Fintona": {
+    "latitude": 54.4969713,
+    "longitude": -7.319246,
+    "label": "Fintona"
+  },
+  "Fivemiletown": {
+    "latitude": 54.3784847,
+    "longitude": -7.3153578,
+    "label": "Fivemiletown"
+  },
+  "Florencecourt": {
+    "latitude": 54.2634439,
+    "longitude": -7.7301721,
+    "label": "Florencecourt"
+  },
+  "Galbally": {
+    "latitude": 54.533333,
+    "longitude": -6.883333,
+    "label": "Galbally"
+  },
+  "Garvagh": {
+    "latitude": 54.982536,
+    "longitude": -6.6877148,
+    "label": "Garvagh"
+  },
+  "Gilford": {
+    "latitude": 54.3733602,
+    "longitude": -6.359485,
+    "label": "Gilford"
+  },
+  "Glengormley": {
+    "latitude": 54.6718077,
+    "longitude": -5.9594082,
+    "label": "Glengormley"
+  },
+  "Glynn": {
+    "latitude": 54.8267821,
+    "longitude": -5.8109984,
+    "label": "Glynn"
+  },
+  "Greencastle": {
+    "latitude": 54.6896166,
+    "longitude": -7.0778026,
+    "label": "Greencastle"
+  },
+  "Groomsport": {
+    "latitude": 54.6748519,
+    "longitude": -5.6180066,
+    "label": "Groomsport"
+  },
+  "Hillsborough": {
+    "latitude": 54.462813,
+    "longitude": -6.0830844,
+    "label": "Royal Hillsborough"
+  },
+  "Holywood": {
+    "latitude": 54.6404494,
+    "longitude": -5.8361723,
+    "label": "Holywood"
+  },
+  "Irvinestown": {
+    "latitude": 54.4720106,
+    "longitude": -7.6334809,
+    "label": "Irvinestown"
+  },
+  "Kells": {
+    "latitude": 54.8084156,
+    "longitude": -6.2204439,
+    "label": "Kells"
+  },
+  "Kilkeel": {
+    "latitude": 54.0626664,
+    "longitude": -6.0059949,
+    "label": "Kilkeel"
+  },
+  "Killylea": {
+    "latitude": 54.3479274,
+    "longitude": -6.7758394,
+    "label": "Killylea"
+  },
+  "Killyleagh": {
+    "latitude": 54.3990651,
+    "longitude": -5.6505384,
+    "label": "Killyleagh"
+  },
+  "Kilrea": {
+    "latitude": 54.950167,
+    "longitude": -6.5564648,
+    "label": "Kilrea"
+  },
+  "Larne": {
+    "latitude": 54.8508458,
+    "longitude": -5.8183116,
+    "label": "Larne"
+  },
+  "Limavady": {
+    "latitude": 55.0504857,
+    "longitude": -6.9505134,
+    "label": "Limavady"
+  },
+  "Lisbellaw": {
+    "latitude": 54.3171222,
+    "longitude": -7.5373355,
+    "label": "Lisbellaw"
+  },
+  "Lisburn": {
+    "latitude": 54.5112856,
+    "longitude": -6.046717,
+    "label": "Lisburn"
+  },
+  "Lisnarick": {
+    "latitude": 54.4769243,
+    "longitude": -7.6987719,
+    "label": "Lisnarrick"
+  },
+  "Lisnaskea": {
+    "latitude": 54.2519389,
+    "longitude": -7.4424577,
+    "label": "Lisnaskea"
+  },
+  "Londonderry": {
+    "latitude": 54.9978678,
+    "longitude": -7.3213056,
+    "label": "Derry/Londonderry"
+  },
+  "Loughbrickland": {
+    "latitude": 54.3161717,
+    "longitude": -6.304167,
+    "label": "Loughbrickland"
+  },
+  "Loughgall": {
+    "latitude": 54.4080941,
+    "longitude": -6.6074725,
+    "label": "Loughgall"
+  },
+  "Lurgan": {
+    "latitude": 54.460824,
+    "longitude": -6.3292491,
+    "label": "Lurgan"
+  },
+  "Magherafelt": {
+    "latitude": 54.7544757,
+    "longitude": -6.6078073,
+    "label": "Magherafelt"
+  },
+  "Magheralin": {
+    "latitude": 54.4672237,
+    "longitude": -6.2611343,
+    "label": "Magheralin"
+  },
+  "Markethill": {
+    "latitude": 54.2968976,
+    "longitude": -6.5209906,
+    "label": "Markethill"
+  },
+  "Millisle": {
+    "latitude": 54.60782,
+    "longitude": -5.5284632,
+    "label": "Millisle"
+  },
+  "Moira": {
+    "latitude": 54.4792925,
+    "longitude": -6.2301652,
+    "label": "Moira"
+  },
+  "Monkstown": {
+    "latitude": 54.6950514,
+    "longitude": -5.9168117,
+    "label": "Monkstown"
+  },
+  "Mosside": {
+    "latitude": 55.1541722,
+    "longitude": -6.4083116,
+    "label": "Mosside Garden"
+  },
+  "Mountnorris": {
+    "latitude": 54.2522887,
+    "longitude": -6.4745373,
+    "label": "Mountnorris"
+  },
+  "Moy": {
+    "latitude": 54.4467386,
+    "longitude": -6.6911155,
+    "label": "Moy"
+  },
+  "Newbuildings": {
+    "latitude": 54.959093,
+    "longitude": -7.3587103,
+    "label": "Newbuildings"
+  },
+  "Newcastle": {
+    "latitude": 54.2118323,
+    "longitude": -5.8897216,
+    "label": "Newcastle"
+  },
+  "Newmills": {
+    "latitude": 54.5516861,
+    "longitude": -6.740477,
+    "label": "Newmills"
+  },
+  "Newry": {
+    "latitude": 54.1775283,
+    "longitude": -6.337506,
+    "label": "Newry"
+  },
+  "Newtownabbey": {
+    "latitude": 54.6778816,
+    "longitude": -5.9249199,
+    "label": "Newtownabbey"
+  },
+  "Newtownards": {
+    "latitude": 54.5933779,
+    "longitude": -5.6960935,
+    "label": "Newtownards"
+  },
+  "Newtownstewart": {
+    "latitude": 54.7173126,
+    "longitude": -7.3790232,
+    "label": "Newtownstewart"
+  },
+  "Omagh": {
+    "latitude": 54.5992486,
+    "longitude": -7.3029907,
+    "label": "Omagh"
+  },
+  "Pettigo": {
+    "latitude": 54.5490678,
+    "longitude": -7.830455,
+    "label": "Pettigo Road"
+  },
+  "Portadown": {
+    "latitude": 54.4242284,
+    "longitude": -6.4412133,
+    "label": "Portadown"
+  },
+  "Portaferry": {
+    "latitude": 54.3806965,
+    "longitude": -5.5485491,
+    "label": "Portaferry"
+  },
+  "Portavogie": {
+    "latitude": 54.4612678,
+    "longitude": -5.4433576,
+    "label": "Portavogie"
+  },
+  "Portballintrae": {
+    "latitude": 55.2150678,
+    "longitude": -6.5443609,
+    "label": "Portballintrae"
+  },
+  "Portglenone": {
+    "latitude": 54.8733857,
+    "longitude": -6.4751493,
+    "label": "Portglenone"
+  },
+  "Portrush": {
+    "latitude": 55.2045078,
+    "longitude": -6.6528595,
+    "label": "Portrush"
+  },
+  "Portstewart": {
+    "latitude": 55.1829096,
+    "longitude": -6.7187008,
+    "label": "Portstewart"
+  },
+  "Poyntzpass": {
+    "latitude": 54.2939101,
+    "longitude": -6.3745902,
+    "label": "Poyntzpass"
+  },
+  "Randalstown": {
+    "latitude": 54.7498918,
+    "longitude": -6.3197638,
+    "label": "Randalstown"
+  },
+  "Rathcoole": {
+    "latitude": 54.6655465,
+    "longitude": -5.9228606,
+    "label": "Rathcoole"
+  },
+  "Rathfriland": {
+    "latitude": 54.2381785,
+    "longitude": -6.1603136,
+    "label": "Rathfriland"
+  },
+  "Richhill": {
+    "latitude": 54.3710151,
+    "longitude": -6.5487914,
+    "label": "Richhill"
+  },
+  "Rostrevor": {
+    "latitude": 54.100725,
+    "longitude": -6.2004264,
+    "label": "Rostrevor"
+  },
+  "Saintfield": {
+    "latitude": 54.4603955,
+    "longitude": -5.8325813,
+    "label": "Saintfield"
+  },
+  "Sion Mills": {
+    "latitude": 54.7878773,
+    "longitude": -7.4728557,
+    "label": "Sion Mills"
+  },
+  "Stewartstown": {
+    "latitude": 54.5768423,
+    "longitude": -6.6765557,
+    "label": "Stewartstown"
+  },
+  "Stoneyford": {
+    "latitude": 54.5672958,
+    "longitude": -6.1214734,
+    "label": "Stoneyford"
+  },
+  "Strabane": {
+    "latitude": 54.826115,
+    "longitude": -7.4627993,
+    "label": "Strabane"
+  },
+  "Stranocum": {
+    "latitude": 55.1093297,
+    "longitude": -6.4185708,
+    "label": "Stranocum"
+  },
+  "Suffolk": {
+    "latitude": 54.8689134,
+    "longitude": -6.2684485,
+    "label": "Suffolk Street"
+  },
+  "Tamlaght O'Crilly": {
+    "latitude": 54.9079208,
+    "longitude": -6.5991389,
+    "label": "Tamlaght O'Crilly"
+  },
+  "Tandragee": {
+    "latitude": 54.3525124,
+    "longitude": -6.4123562,
+    "label": "Tandragee"
+  },
+  "Tartaraghan": {
+    "latitude": 54.4756675,
+    "longitude": -6.5428237,
+    "label": "Tartaraghan"
+  },
+  "Templepatrick": {
+    "latitude": 54.7007241,
+    "longitude": -6.103504,
+    "label": "Templepatrick"
+  },
+  "Tobermore": {
+    "latitude": 54.8119443,
+    "longitude": -6.7076173,
+    "label": "Tobermore"
+  },
+  "Upper Ballinderry": {
+    "latitude": 54.5401636,
+    "longitude": -6.2038289,
+    "label": "Ballinderry Upper"
+  },
+  "Upperlands": {
+    "latitude": 54.8788337,
+    "longitude": -6.6403915,
+    "label": "Upperlands"
+  },
+  "Waringstown": {
+    "latitude": 54.4383129,
+    "longitude": -6.3009935,
+    "label": "Waringstown"
+  },
+  "Whiteabbey": {
+    "latitude": 54.6721546,
+    "longitude": -5.9045207,
+    "label": "Whiteabbey"
+  },
+  "Whitecity": {
+    "latitude": 54.65195,
+    "longitude": -5.9306405,
+    "label": "Whitecity"
+  },
+  "Whitehead": {
+    "latitude": 54.7537033,
+    "longitude": -5.7116235,
+    "label": "Whitehead"
+  }
+}
