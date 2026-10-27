@@ -708,5 +708,15 @@
     "latitude": 54.7537033,
     "longitude": -5.7116235,
     "label": "Whitehead"
+  },
+  "Augher": {
+    "latitude": 54.4283084,
+    "longitude": -7.1320426,
+    "label": "Augher"
+  },
+  "Aughnacloy": {
+    "latitude": 54.4147918,
+    "longitude": -6.9762879,
+    "label": "Aughnacloy"
   }
 }
