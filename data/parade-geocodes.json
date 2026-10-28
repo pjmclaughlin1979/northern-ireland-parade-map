@@ -718,5 +718,10 @@
     "latitude": 54.4147918,
     "longitude": -6.9762879,
     "label": "Aughnacloy"
+  },
+  "Bryansford": {
+    "latitude": 54.229121,
+    "longitude": -5.9345276,
+    "label": "Bryansford"
   }
 }
