@@ -723,5 +723,10 @@
     "latitude": 54.229121,
     "longitude": -5.9345276,
     "label": "Bryansford"
+  },
+  "Kesh": {
+    "latitude": 54.5233599,
+    "longitude": -7.7225138,
+    "label": "Kesh"
   }
 }
