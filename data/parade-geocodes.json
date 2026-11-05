@@ -728,5 +728,10 @@
     "latitude": 54.5233599,
     "longitude": -7.7225138,
     "label": "Kesh"
+  },
+  "Donemana": {
+    "latitude": 54.8738902,
+    "longitude": -7.3126042,
+    "label": "Donemana"
   }
 }
