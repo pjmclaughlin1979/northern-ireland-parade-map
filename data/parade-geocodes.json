@@ -733,5 +733,15 @@
     "latitude": 54.8738902,
     "longitude": -7.3126042,
     "label": "Donemana"
+  },
+  "Crawfordsburn": {
+    "latitude": 54.658431,
+    "longitude": -5.727932,
+    "label": "Crawfordsburn"
+  },
+  "Glarryford": {
+    "latitude": 54.9529347,
+    "longitude": -6.3580302,
+    "label": "Glarryford"
   }
 }
