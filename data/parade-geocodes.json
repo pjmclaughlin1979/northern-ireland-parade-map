@@ -743,5 +743,10 @@
     "latitude": 54.9529347,
     "longitude": -6.3580302,
     "label": "Glarryford"
+  },
+  "Articlave": {
+    "latitude": 55.1469805,
+    "longitude": -6.7739521,
+    "label": "Articlave"
   }
 }
