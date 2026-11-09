@@ -1,6 +1,6 @@
 {
   "source": "https://www.paradescommission.org/Home.aspx?rss=UpcomingParades",
-  "fetchedAt": "2026-11-08T10:30:31+00:00",
+  "fetchedAt": "2026-11-09T11:44:17+00:00",
   "feedPublishedAt": "2027-07-11T23:00:00+00:00",
   "parades": [
     {
@@ -1177,20 +1177,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96670",
-      "title": "Groomsport Village Association",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96810",
+      "title": "Christmas Light Switch on",
       "date": "2026-12-04",
       "startTime": "18:30",
-      "endTime": "19:00",
-      "location": "Groomsport",
-      "route": "Donaghadee Road,Groomsport Parish Church,Groomsport Presbyterian Church - Main Street Groomsport",
+      "endTime": "20:30",
+      "location": "Artigarvan",
+      "route": "Berryhill Road",
       "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96670",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96810",
       "coordinates": {
-        "latitude": 54.6748519,
-        "longitude": -5.6180066,
-        "label": "Groomsport"
+        "latitude": 54.8559044,
+        "longitude": -7.4079831,
+        "label": "Artigarvan"
       }
     },
     {
@@ -1211,20 +1211,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96707",
-      "title": "Ardstraw Presbyterian Church",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96670",
+      "title": "Groomsport Village Association",
       "date": "2026-12-04",
-      "startTime": "19:00",
-      "endTime": "19:15",
-      "location": "Ardstraw",
-      "route": "Abbey Villas Ardstraw,Sunnyside Coolaghy Road, Ardstraw",
+      "startTime": "18:30",
+      "endTime": "19:00",
+      "location": "Groomsport",
+      "route": "Donaghadee Road,Groomsport Parish Church,Groomsport Presbyterian Church - Main Street Groomsport",
       "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96707",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96670",
       "coordinates": {
-        "latitude": 54.7326692,
-        "longitude": -7.4574695,
-        "label": "Ardstraw"
+        "latitude": 54.6748519,
+        "longitude": -5.6180066,
+        "label": "Groomsport"
       }
     },
     {
@@ -1245,20 +1245,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96605",
-      "title": "Ederney Santa Visit",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96707",
+      "title": "Ardstraw Presbyterian Church",
       "date": "2026-12-04",
       "startTime": "19:00",
-      "endTime": "20:30",
-      "location": "Enniskillen",
-      "route": "Ardvarney Road Ederney",
+      "endTime": "19:15",
+      "location": "Ardstraw",
+      "route": "Abbey Villas Ardstraw,Sunnyside Coolaghy Road, Ardstraw",
       "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96605",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96707",
       "coordinates": {
-        "latitude": 54.3448171,
-        "longitude": -7.638907,
-        "label": "Enniskillen"
+        "latitude": 54.7326692,
+        "longitude": -7.4574695,
+        "label": "Ardstraw"
       }
     },
     {
@@ -1276,6 +1276,23 @@
         "latitude": 54.8889956,
         "longitude": -6.356308,
         "label": "Cullybackey"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96605",
+      "title": "Ederney Santa Visit",
+      "date": "2026-12-04",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "location": "Enniskillen",
+      "route": "Ardvarney Road Ederney",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96605",
+      "coordinates": {
+        "latitude": 54.3448171,
+        "longitude": -7.638907,
+        "label": "Enniskillen"
       }
     },
     {
@@ -1347,20 +1364,54 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96765",
-      "title": "Dromore 2000 Ltd",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96805",
+      "title": "Pride of the Orange & Blue Flute Band",
       "date": "2026-12-05",
-      "startTime": "16:00",
-      "endTime": "17:30",
-      "location": "Dromore",
-      "route": "St Patricks Hall,Main Street,St Travers,Roundabout,Irvinestown Road (Old Creamery Road),Dromore town,Dromore/Omagh Road,Main Street",
+      "startTime": "11:00",
+      "endTime": "11:15",
+      "location": "Londonderry",
+      "route": "Iona Terrace,May Street,Bond Street,Glendermott Road Clooney Terrace,Clooney Terrace,Simpsons Brae/B523,A2/A1002,Railway Road",
       "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96765",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96805",
       "coordinates": {
-        "latitude": 54.5128552,
-        "longitude": -7.4576175,
-        "label": "Dromore"
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96809",
+      "title": "An Invitation To Love Jesus",
+      "date": "2026-12-05",
+      "startTime": "15:00",
+      "endTime": "16:00",
+      "location": "Cookstown",
+      "route": "James Street,Fairhill Road,Park Avenue,Burn Road,Orritor Road,Orritor Street,William Street  (Stopping at cenotaph for a hymn),James Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96809",
+      "coordinates": {
+        "latitude": 54.6436734,
+        "longitude": -6.7416008,
+        "label": "Cookstown"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96806",
+      "title": "Apprentice boys of dromara",
+      "date": "2026-12-05",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "location": "Dromara",
+      "route": "Dundrum Road,Rathfriland Road,Upper Square,Hillsborough Road to School",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96806",
+      "coordinates": {
+        "latitude": 54.379847,
+        "longitude": -6.0179819,
+        "label": "Dromara"
       }
     },
     {
@@ -1381,20 +1432,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96434",
-      "title": "**##The Rossi Light Up The Night Tractor & Truck Run##**",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96804",
+      "title": "William King Memorial Flute Band",
       "date": "2026-12-05",
-      "startTime": "14:00",
-      "endTime": "17:30",
-      "location": "Rostrevor",
-      "route": "Bridge Street Rostrevor,Rostrevor Road,Warrenpoint Road,Church Street  Warrenpoint,Duke Street,Upper Dromore Road,Milltown Street    Burren,Bridge Road,Chapel Hill       Maybridge,Bavan Road,Drumlough Road,Newry Street       Rathfriland,Downpatrick Street,Castlewellan Road,Hilltown Road,Main Street Hilltown,Rostrevor Road Hilltown,Kilbroney Road,Rostrevor Village",
-      "returnRoute": "",
+      "startTime": "12:45",
+      "endTime": "13:00",
+      "location": "Londonderry",
+      "route": "Fountain Youth Club,Kennedy Street,Kennedy Place,Hawkin Street,London Street,Bishop Street,Palace Lane,Apprentice Boys Memorial Hall",
+      "returnRoute": "Bishop Street,London Street,Hawkin Street,Kennedy Place,Kennedy Street,The Fountain,Youth Club",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96434",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96804",
       "coordinates": {
-        "latitude": 54.100725,
-        "longitude": -6.2004264,
-        "label": "Rostrevor"
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
       }
     },
     {
@@ -1415,6 +1466,23 @@
       }
     },
     {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96802",
+      "title": "ABOD Belfast Campsie Club",
+      "date": "2026-12-05",
+      "startTime": "09:00",
+      "endTime": "10:00",
+      "location": "Belfast",
+      "route": "Walker Court,Euston Street,Newry Street,Castlereagh Road (board bus facing Clara street),Templemore Avenue,Newtownards Road,Bridge End,Rotterdam Street",
+      "returnRoute": "Middlepath Street,Newtownards Road,Templemore Avenue,Castlereagh Road,Newry Street,Euston Street,Walker Court",
+      "contentious": true,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96802",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96796",
       "title": "Greyabbey Flute Band",
       "date": "2026-12-05",
@@ -1432,6 +1500,23 @@
       }
     },
     {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96765",
+      "title": "Dromore 2000 Ltd",
+      "date": "2026-12-05",
+      "startTime": "16:00",
+      "endTime": "17:30",
+      "location": "Dromore",
+      "route": "St Patricks Hall,Main Street,St Travers,Roundabout,Irvinestown Road (Old Creamery Road),Dromore town,Dromore/Omagh Road,Main Street",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96765",
+      "coordinates": {
+        "latitude": 54.5128552,
+        "longitude": -7.4576175,
+        "label": "Dromore"
+      }
+    },
+    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96737",
       "title": "ABOD",
       "date": "2026-12-05",
@@ -1446,6 +1531,23 @@
         "latitude": 54.596391,
         "longitude": -5.9301829,
         "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96434",
+      "title": "**##The Rossi Light Up The Night Tractor & Truck Run##**",
+      "date": "2026-12-05",
+      "startTime": "14:00",
+      "endTime": "17:30",
+      "location": "Rostrevor",
+      "route": "Bridge Street Rostrevor,Rostrevor Road,Warrenpoint Road,Church Street  Warrenpoint,Duke Street,Upper Dromore Road,Milltown Street    Burren,Bridge Road,Chapel Hill       Maybridge,Bavan Road,Drumlough Road,Newry Street       Rathfriland,Downpatrick Street,Castlewellan Road,Hilltown Road,Main Street Hilltown,Rostrevor Road Hilltown,Kilbroney Road,Rostrevor Village",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96434",
+      "coordinates": {
+        "latitude": 54.100725,
+        "longitude": -6.2004264,
+        "label": "Rostrevor"
       }
     },
     {
@@ -1636,20 +1738,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96766",
-      "title": "Kesh Develpoment Association.",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96808",
+      "title": "Saintfield District No. 5",
       "date": "2026-12-12",
-      "startTime": "19:00",
-      "endTime": "20:30",
-      "location": "Kesh",
-      "route": "Main Street,Station Road,Mantlin Road,Rosscalban Avenue",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Ballygowan",
+      "route": "Comber Road Ballygowan,The Brae Ballygowan,Victoria Square Ballygowan,Saintfield Road Ballygowan,Ballygowan Road Saintfield,Belfast Road Saintfield,Crossgar Road Saintfield,Old Grand Jury Road Saintfield,Downpatrick Street Saintfield,Main Street Saintfield,Belfast Road Saintfield,Monlough Road Saintfield,Ballyknockan Road,Ravara Road,Saintfield Road Ballygowan,Victoria Square Ballygowan,Comber Road Ballygowan,Church Halls Ballygowan",
       "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96766",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96808",
       "coordinates": {
-        "latitude": 54.5233599,
-        "longitude": -7.7225138,
-        "label": "Kesh"
+        "latitude": 54.5018813,
+        "longitude": -5.7918013,
+        "label": "Ballygowan"
       }
     },
     {
@@ -1667,6 +1769,23 @@
         "latitude": 54.6425446,
         "longitude": -5.5375794,
         "label": "Donaghadee"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96766",
+      "title": "Kesh Develpoment Association.",
+      "date": "2026-12-12",
+      "startTime": "19:00",
+      "endTime": "20:30",
+      "location": "Kesh",
+      "route": "Main Street,Station Road,Mantlin Road,Rosscalban Avenue",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96766",
+      "coordinates": {
+        "latitude": 54.5233599,
+        "longitude": -7.7225138,
+        "label": "Kesh"
       }
     },
     {
@@ -1752,6 +1871,23 @@
         "latitude": 54.460824,
         "longitude": -6.3292491,
         "label": "Lurgan"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96803",
+      "title": "Skeoge Community Association",
+      "date": "2026-12-14",
+      "startTime": "16:00",
+      "endTime": "19:00",
+      "location": "Derry",
+      "route": "Skeoge Community Hub Car Park,Clon Dara,Clon Elagh,Glenabbey Estate, Glenabbey Drive, Glenabbey Park, Glenabbey Street,Beraghvale, Glenabbey Hub,Skeoge Link Road,Clon Dara,Skeoge Community Hub Car Park",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96803",
+      "coordinates": {
+        "latitude": 54.9978678,
+        "longitude": -7.3213056,
+        "label": "Derry/Londonderry"
       }
     },
     {

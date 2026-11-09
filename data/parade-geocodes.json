@@ -748,5 +748,15 @@
     "latitude": 55.1469805,
     "longitude": -6.7739521,
     "label": "Articlave"
+  },
+  "Artigarvan": {
+    "latitude": 54.8559044,
+    "longitude": -7.4079831,
+    "label": "Artigarvan"
+  },
+  "Dromara": {
+    "latitude": 54.379847,
+    "longitude": -6.0179819,
+    "label": "Dromara"
   }
 }
