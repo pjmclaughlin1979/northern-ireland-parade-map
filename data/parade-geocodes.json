@@ -758,5 +758,25 @@
     "latitude": 54.379847,
     "longitude": -6.0179819,
     "label": "Dromara"
+  },
+  "Ballymacnab": {
+    "latitude": 54.2824314,
+    "longitude": -6.6227278,
+    "label": "Ballymacnab Road"
+  },
+  "Blackwatertown": {
+    "latitude": 54.4130569,
+    "longitude": -6.7027065,
+    "label": "Blackwatertown"
+  },
+  "Moneymore": {
+    "latitude": 54.6915514,
+    "longitude": -6.6703019,
+    "label": "Moneymore"
+  },
+  "Pomeroy": {
+    "latitude": 54.5940505,
+    "longitude": -6.9259547,
+    "label": "Pomeroy"
   }
 }
