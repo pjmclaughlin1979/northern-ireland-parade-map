@@ -778,5 +778,20 @@
     "latitude": 54.5940505,
     "longitude": -6.9259547,
     "label": "Pomeroy"
+  },
+  "Ballygalget": {
+    "latitude": 54.4071779,
+    "longitude": -5.4963983,
+    "label": "Ballygalget"
+  },
+  "Cranagh": {
+    "latitude": 55.2173922,
+    "longitude": -6.1463841,
+    "label": "Lough na Cranagh"
+  },
+  "Seskinore": {
+    "latitude": 54.5174818,
+    "longitude": -7.2538019,
+    "label": "Seskinore"
   }
 }
