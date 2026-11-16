@@ -793,5 +793,15 @@
     "latitude": 54.5174818,
     "longitude": -7.2538019,
     "label": "Seskinore"
+  },
+  "Derrymacash": {
+    "latitude": 54.4796875,
+    "longitude": -6.4031417,
+    "label": "Derrymacash"
+  },
+  "Magheramason": {
+    "latitude": 54.9396882,
+    "longitude": -7.3860575,
+    "label": "Magheramason"
   }
 }
