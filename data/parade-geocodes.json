@@ -803,5 +803,10 @@
     "latitude": 54.9396882,
     "longitude": -7.3860575,
     "label": "Magheramason"
+  },
+  "Maguiresbridge": {
+    "latitude": 54.2949257,
+    "longitude": -7.4645016,
+    "label": "Maguiresbridge"
   }
 }
