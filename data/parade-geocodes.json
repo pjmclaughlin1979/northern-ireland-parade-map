@@ -808,5 +808,15 @@
     "latitude": 54.2949257,
     "longitude": -7.4645016,
     "label": "Maguiresbridge"
+  },
+  "Parkgate": {
+    "latitude": 54.720772,
+    "longitude": -6.1024055,
+    "label": "Parkgate"
+  },
+  "Seaforde": {
+    "latitude": 54.3071475,
+    "longitude": -5.8414557,
+    "label": "Seaforde"
   }
 }
