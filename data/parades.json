@@ -1,6 +1,6 @@
 {
   "source": "https://www.paradescommission.org/Home.aspx?rss=UpcomingParades",
-  "fetchedAt": "2026-11-22T11:36:34+00:00",
+  "fetchedAt": "2026-11-23T13:02:06+00:00",
   "feedPublishedAt": "2027-07-11T23:00:00+00:00",
   "parades": [
     {
@@ -120,6 +120,23 @@
         "latitude": 55.2006882,
         "longitude": -6.250282,
         "label": "Ballycastle"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96874",
+      "title": "Hillhall Regeneration Group",
+      "date": "2026-11-26",
+      "startTime": "18:00",
+      "endTime": "20:00",
+      "location": "Lisburn",
+      "route": "Hillhall Gardens",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96874",
+      "coordinates": {
+        "latitude": 54.5112856,
+        "longitude": -6.046717,
+        "label": "Lisburn"
       }
     },
     {
@@ -361,23 +378,6 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96587",
-      "title": "Grange GAA",
-      "date": "2026-11-28",
-      "startTime": "20:00",
-      "endTime": "20:30",
-      "location": "Armagh",
-      "route": "Ballygassoon Road",
-      "returnRoute": "Ballygassoon Road",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96587",
-      "coordinates": {
-        "latitude": 54.3481977,
-        "longitude": -6.6540432,
-        "label": "Armagh"
-      }
-    },
-    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96248",
       "title": "Mid Ulster District Council",
       "date": "2026-11-28",
@@ -392,6 +392,23 @@
         "latitude": 54.5039088,
         "longitude": -6.7703622,
         "label": "Dungannon"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96587",
+      "title": "Grange GAA",
+      "date": "2026-11-28",
+      "startTime": "20:00",
+      "endTime": "20:30",
+      "location": "Armagh",
+      "route": "Ballygassoon Road",
+      "returnRoute": "Ballygassoon Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96587",
+      "coordinates": {
+        "latitude": 54.3481977,
+        "longitude": -6.6540432,
+        "label": "Armagh"
       }
     },
     {
@@ -463,23 +480,6 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96752",
-      "title": "Wednesday Night Running Club",
-      "date": "2026-11-29",
-      "startTime": "07:30",
-      "endTime": "19:00",
-      "location": "Banbridge",
-      "route": "Church Square Banbridge,Dromore Road Banbridge,Lisnaree Road Banbridge,Dromore Road/A1 Banbridge,Milebush Road Dromore,A1 Dromore,Hillsborough Road A1,Laganbank Road Lisburn,Linenhall Street Lisburn,Belfast Road A1,Queensway A1,Upper Lisburn Road Belfast,Stockamans Lane Belfast,Boucher Road Belfast,Glenmachan Street Belfast,Broadway Belfast,Royal Belfast Hospital for Sick Children",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96752",
-      "coordinates": {
-        "latitude": 54.3514168,
-        "longitude": -6.2714623,
-        "label": "Banbridge"
-      }
-    },
-    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96723",
       "title": "Royal British Legion City of Armagh",
       "date": "2026-11-29",
@@ -528,6 +528,23 @@
         "latitude": 54.4467386,
         "longitude": -6.6911155,
         "label": "Moy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96752",
+      "title": "Wednesday Night Running Club",
+      "date": "2026-11-29",
+      "startTime": "07:30",
+      "endTime": "19:00",
+      "location": "Banbridge",
+      "route": "Church Square Banbridge,Dromore Road Banbridge,Lisnaree Road Banbridge,Dromore Road/A1 Banbridge,Milebush Road Dromore,A1 Dromore,Hillsborough Road A1,Laganbank Road Lisburn,Linenhall Street Lisburn,Belfast Road A1,Queensway A1,Upper Lisburn Road Belfast,Stockamans Lane Belfast,Boucher Road Belfast,Glenmachan Street Belfast,Broadway Belfast,Royal Belfast Hospital for Sick Children",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96752",
+      "coordinates": {
+        "latitude": 54.3514168,
+        "longitude": -6.2714623,
+        "label": "Banbridge"
       }
     },
     {
@@ -633,23 +650,6 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96810",
-      "title": "Christmas Light Switch on",
-      "date": "2026-12-04",
-      "startTime": "18:30",
-      "endTime": "20:30",
-      "location": "Artigarvan",
-      "route": "Berryhill Road",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96810",
-      "coordinates": {
-        "latitude": 54.8559044,
-        "longitude": -7.4079831,
-        "label": "Artigarvan"
-      }
-    },
-    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96605",
       "title": "Ederney Santa Visit",
       "date": "2026-12-04",
@@ -681,6 +681,23 @@
         "latitude": 54.6748519,
         "longitude": -5.6180066,
         "label": "Groomsport"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96810",
+      "title": "Christmas Light Switch on",
+      "date": "2026-12-04",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "location": "Artigarvan",
+      "route": "Berryhill Road",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96810",
+      "coordinates": {
+        "latitude": 54.8559044,
+        "longitude": -7.4079831,
+        "label": "Artigarvan"
       }
     },
     {
@@ -1211,6 +1228,40 @@
       }
     },
     {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96875",
+      "title": "SANDY ROW MITCHELBURNE CLUB",
+      "date": "2026-12-05",
+      "startTime": "09:00",
+      "endTime": "09:00",
+      "location": "Belfast",
+      "route": "Sandy Row Rangers Club - Donegall Road,Sandy Row,Linfield Road",
+      "returnRoute": "Linfield Road,Sandy Row,Sandy Row Rangers - Donegall Road",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96875",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96820",
+      "title": "PORTADOWN ABOD",
+      "date": "2026-12-05",
+      "startTime": "08:00",
+      "endTime": "08:30",
+      "location": "Portadown",
+      "route": "Carleton Street,Church Street,Market Street,High Street,Castle Street,Bridge Street,Wastson Street,Joesph Street",
+      "returnRoute": "Josepth Street,Bridge Street,High Street,Market Street,Church Street,Carleton Street",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96820",
+      "coordinates": {
+        "latitude": 54.4242284,
+        "longitude": -6.4412133,
+        "label": "Portadown"
+      }
+    },
+    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96748",
       "title": "St James Church of Ireland",
       "date": "2026-12-05",
@@ -1262,23 +1313,6 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96326",
-      "title": "##**Saintfield Christmas Charity Ride",
-      "date": "2026-12-05",
-      "startTime": "12:00",
-      "endTime": "14:00",
-      "location": "Saintfield",
-      "route": "Leaving Mary Mother of the Church,Gossgai Road,Left toward Saintfield,Right into Station Road,Left into Ballyaghaty  Road,Carson Town Road,Station Road,Main Street (towards Ballynahinch),Rurn around Fairview terrace,Main Street,Gossgai Road,Mary Mother of the Church",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96326",
-      "coordinates": {
-        "latitude": 54.4603955,
-        "longitude": -5.8325813,
-        "label": "Saintfield"
-      }
-    },
-    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96434",
       "title": "**##The Rossi Light Up The Night Tractor & Truck Run##**",
       "date": "2026-12-05",
@@ -1296,20 +1330,20 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96820",
-      "title": "PORTADOWN ABOD",
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96326",
+      "title": "##**Saintfield Christmas Charity Ride",
       "date": "2026-12-05",
-      "startTime": "08:00",
-      "endTime": "08:30",
-      "location": "Portadown",
-      "route": "Carleton Street,Church Street,Market Street,High Street,Castle Street,Bridge Street,Wastson Street,Joesph Street",
-      "returnRoute": "Josepth Street,Bridge Street,High Street,Market Street,Church Street,Carleton Street",
+      "startTime": "12:00",
+      "endTime": "14:00",
+      "location": "Saintfield",
+      "route": "Leaving Mary Mother of the Church,Gossgai Road,Left toward Saintfield,Right into Station Road,Left into Ballyaghaty  Road,Carson Town Road,Station Road,Main Street (towards Ballynahinch),Rurn around Fairview terrace,Main Street,Gossgai Road,Mary Mother of the Church",
+      "returnRoute": "",
       "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96820",
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96326",
       "coordinates": {
-        "latitude": 54.4242284,
-        "longitude": -6.4412133,
-        "label": "Portadown"
+        "latitude": 54.4603955,
+        "longitude": -5.8325813,
+        "label": "Saintfield"
       }
     },
     {
@@ -1568,6 +1602,57 @@
       }
     },
     {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96842",
+      "title": "Rosary Crusade",
+      "date": "2026-12-12",
+      "startTime": "16:30",
+      "endTime": "17:30",
+      "location": "Belfast",
+      "route": "St Malachy's Church - Alfred Street,Clarence Street,Clarence Street West,Bains Place,Amelia Street,Great Victoria Street,Howard Street,Donegall Square South,Donegall Square East,Donegall Square North,Donegall Place,Castle Street,Chapel Lane",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96842",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96819",
+      "title": "Altedesert Parish church",
+      "date": "2026-12-12",
+      "startTime": "18:00",
+      "endTime": "19:00",
+      "location": "Pomeroy",
+      "route": "Altedesert Church Hall / RMS Yard - Main Street Pomeroy,North Street,Loughbracken Road,Gortsraheen Road,Edendoit Road,Seessiagh Scott Road,Drumballyhugh Road,Gortavale Road,Thornhill Road,Tanderagee Road,Altedesert Church Hall - Main Street Pomeroy",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96819",
+      "coordinates": {
+        "latitude": 54.5940505,
+        "longitude": -6.9259547,
+        "label": "Pomeroy"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96808",
+      "title": "Saintfield District No. 5",
+      "date": "2026-12-12",
+      "startTime": "15:00",
+      "endTime": "17:00",
+      "location": "Ballygowan",
+      "route": "Comber Road Ballygowan,The Brae Ballygowan,Victoria Square Ballygowan,Saintfield Road Ballygowan,Ballygowan Road Saintfield,Belfast Road Saintfield,Crossgar Road Saintfield,Old Grand Jury Road Saintfield,Downpatrick Street Saintfield,Main Street Saintfield,Belfast Road Saintfield,Monlough Road Saintfield,Ballyknockan Road,Ravara Road,Saintfield Road Ballygowan,Victoria Square Ballygowan,Comber Road Ballygowan,Church Halls Ballygowan",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96808",
+      "coordinates": {
+        "latitude": 54.5018813,
+        "longitude": -5.7918013,
+        "label": "Ballygowan"
+      }
+    },
+    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96713",
       "title": "Kirkinriola Primary School PTA",
       "date": "2026-12-12",
@@ -1599,57 +1684,6 @@
         "latitude": 54.959093,
         "longitude": -7.3587103,
         "label": "Newbuildings"
-      }
-    },
-    {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96808",
-      "title": "Saintfield District No. 5",
-      "date": "2026-12-12",
-      "startTime": "15:00",
-      "endTime": "17:00",
-      "location": "Ballygowan",
-      "route": "Comber Road Ballygowan,The Brae Ballygowan,Victoria Square Ballygowan,Saintfield Road Ballygowan,Ballygowan Road Saintfield,Belfast Road Saintfield,Crossgar Road Saintfield,Old Grand Jury Road Saintfield,Downpatrick Street Saintfield,Main Street Saintfield,Belfast Road Saintfield,Monlough Road Saintfield,Ballyknockan Road,Ravara Road,Saintfield Road Ballygowan,Victoria Square Ballygowan,Comber Road Ballygowan,Church Halls Ballygowan",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96808",
-      "coordinates": {
-        "latitude": 54.5018813,
-        "longitude": -5.7918013,
-        "label": "Ballygowan"
-      }
-    },
-    {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96819",
-      "title": "Altedesert Parish church",
-      "date": "2026-12-12",
-      "startTime": "18:00",
-      "endTime": "19:00",
-      "location": "Pomeroy",
-      "route": "Altedesert Church Hall / RMS Yard - Main Street Pomeroy,North Street,Loughbracken Road,Gortsraheen Road,Edendoit Road,Seessiagh Scott Road,Drumballyhugh Road,Gortavale Road,Thornhill Road,Tanderagee Road,Altedesert Church Hall - Main Street Pomeroy",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96819",
-      "coordinates": {
-        "latitude": 54.5940505,
-        "longitude": -6.9259547,
-        "label": "Pomeroy"
-      }
-    },
-    {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96842",
-      "title": "Rosary Crusade",
-      "date": "2026-12-12",
-      "startTime": "16:30",
-      "endTime": "17:30",
-      "location": "Belfast",
-      "route": "St Malachy's Church - Alfred Street,Clarence Street,Clarence Street West,Bains Place,Amelia Street,Great Victoria Street,Howard Street,Donegall Square South,Donegall Square East,Donegall Square North,Donegall Place,Castle Street,Chapel Lane",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96842",
-      "coordinates": {
-        "latitude": 54.596391,
-        "longitude": -5.9301829,
-        "label": "Belfast"
       }
     },
     {
@@ -1840,23 +1874,6 @@
       }
     },
     {
-      "id": "https://www.paradescommission.org/viewparade.aspx?id=96849",
-      "title": "Annadale and Haywood Residents Association",
-      "date": "2026-12-13",
-      "startTime": "14:00",
-      "endTime": "15:00",
-      "location": "Belfast",
-      "route": "Candahar Street,Delhi Parade",
-      "returnRoute": "",
-      "contentious": false,
-      "link": "https://www.paradescommission.org/viewparade.aspx?id=96849",
-      "coordinates": {
-        "latitude": 54.596391,
-        "longitude": -5.9301829,
-        "label": "Belfast"
-      }
-    },
-    {
       "id": "https://www.paradescommission.org/viewparade.aspx?id=96694",
       "title": "Magical Christmas tractor run",
       "date": "2026-12-13",
@@ -1871,6 +1888,23 @@
         "latitude": 54.6478693,
         "longitude": -6.6184389,
         "label": "Coagh"
+      }
+    },
+    {
+      "id": "https://www.paradescommission.org/viewparade.aspx?id=96849",
+      "title": "Annadale and Haywood Residents Association",
+      "date": "2026-12-13",
+      "startTime": "14:00",
+      "endTime": "15:00",
+      "location": "Belfast",
+      "route": "Candahar Street,Delhi Parade",
+      "returnRoute": "",
+      "contentious": false,
+      "link": "https://www.paradescommission.org/viewparade.aspx?id=96849",
+      "coordinates": {
+        "latitude": 54.596391,
+        "longitude": -5.9301829,
+        "label": "Belfast"
       }
     },
     {
