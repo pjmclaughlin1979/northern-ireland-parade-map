@@ -818,5 +818,15 @@
     "latitude": 54.3071475,
     "longitude": -5.8414557,
     "label": "Seaforde"
+  },
+  "Katesbridge": {
+    "latitude": 54.3027363,
+    "longitude": -6.1420802,
+    "label": "Katesbridge"
+  },
+  "Killyman": {
+    "latitude": 54.4922526,
+    "longitude": -6.7026675,
+    "label": "Killyman"
   }
 }
