@@ -828,5 +828,15 @@
     "latitude": 54.4922526,
     "longitude": -6.7026675,
     "label": "Killyman"
+  },
+  "Clough": {
+    "latitude": 54.2909095,
+    "longitude": -5.8376381,
+    "label": "Clough"
+  },
+  "Drumbo": {
+    "latitude": 54.5161342,
+    "longitude": -5.957242,
+    "label": "Drumbo"
   }
 }
